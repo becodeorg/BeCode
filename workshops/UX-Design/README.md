@@ -2,7 +2,7 @@
 
 # Planning de la journée
 
-**9h00 :** installation de 13 tables : paquet de feuilles, quelques marqueurs, 4 places. 1 ordinateur par groupe.
+**9h00** : installation de 13 tables : paquet de feuilles, quelques marqueurs, 4 places. 1 ordinateur par groupe.
 
 **10h00 :** Briefing
 **10h05 :** qu’est-ce que l’ux ? Qu’est-ce que le “rapid prototyping” ?
