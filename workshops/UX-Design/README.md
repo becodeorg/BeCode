@@ -13,7 +13,7 @@ en mode aléatoire : on fait piocher des bouts de papier avec des numéros dessu
 (Alex) présentation des personas, et de leurs motivations. (5 min.)
 
 Consigne : “20 minutes: identifiez des publics-cible. Rédigez leur feuille descriptive.
-Pour chacun,  imaginez, dans le détail, quel serait le scénario de réalisation de leur motivation au moment de venir sur le site becode.org pour la première fois.”
+Pour chacun,  imaginez, dans le détail, quel serait le scénario de réalisation de leur motivation au moment de venir sur le site [becode.org]() pour la première fois.”
  
 # Contraintes :
 Mobile first
@@ -21,7 +21,7 @@ Le scénario de cette expérience-utilisateur doit démarrer, au choix, soit :
 devant le moteur de recherche de google (quelle recherche tape-t-elle ?)
 dans le métro, face à une pub pour becode
 devant site X ou site de gaming, il y a une pub pour becode
-au moment de lancer un épisode d’une série US, le persona voit ceci : https://dl.dropboxusercontent.com/u/150457/hulu-becode.jpeg
+au moment de lancer un épisode d’une série US, le persona voit ceci : [https://dl.dropboxusercontent.com/u/150457/hulu-becode.jpeg](hulu.jpeg)
 via une pub Facebook
 via une pub sur Google Search (pub ciblées du week-end)
 
@@ -50,3 +50,11 @@ Un utilisateur du groupe 1 se porte volontaire pour tester le prototype du group
 Chaque groupe projette à l’assemblée son prototype (sur base volontaire)
 
 Livraison des prototypes Balsamiq au format ZIP sur [Google Drive](https://drive.google.com/drive/folders/0B95kMq28iSwCOXlaUVBwdDJ5aWc?usp=sharing)
+
+
+### Contenu à votre disposition
+Toute la base et les textes sont sur le site actuel, mais on est ouvert à tout changement.
+Voici une [série d'infographies](https://drive.google.com/drive/u/1/folders/0B8wMyRL4azawejB5S2tUcWRJcUE) que l'on prépare pour expliquer BeCode
+
+
+
