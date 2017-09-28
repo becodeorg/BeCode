@@ -6,7 +6,7 @@ Toutes les étapes se font tout doucement. Si une étape fait mal, on ne la fait
 
 1. se tenir droit en se recentrant sur soi
 1. bonjour à son dos [1]
-1. mains vers plafond et on s'allonge, on s'étire le plus possible.
+1. mains vers plafond et on s'étire le plus possible.
 1. cercles avec la tête, pour chauffer la nuque
 1. cercles avec les épaules, pour chauffer les articulations
 1. épaules vers les oreilles [2]
@@ -14,12 +14,17 @@ Toutes les étapes se font tout doucement. Si une étape fait mal, on ne la fait
 1. échauffement mains
 1. échauffement chevilles
 
-**Étapes de brain gym** pour connecter son hémisphère gauche et son hémisphère droit
+**Étapes de brain gym - mouvements croisés**
 
 1. coudes/genoux
 1. mains/pieds avant (grenouille avant)
 1. mains/pieds arrière
 1. saturday night fever
+
+**Étapes de brain gym - contacts croisés**
+
+1. chevilles et bras croisés
+1. chevilles et bras décroisés, contacts par bout des doigts
 
 On termine avec, de nouveau : 
 
