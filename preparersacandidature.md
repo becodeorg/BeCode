@@ -18,6 +18,8 @@ Au lieu de dire “Veuillez agréer mes salutations distinguées”, vous pouvez
 
 **Petite note pour les nanas** : paraît-il que cela ne se fait pas d’envoyer ses sentiments. 
 
+Également, voici le [slide de présentation de l'équipe RH de Degroof Petercam avec tous les trucs et astuces](https://drive.google.com/open?id=0B1mdnkbeKh9FcmluenkyNTVwaUN5U1p3UVpqZ3RXZzI2UG44) ! <3
+
 
 ## Générateur de CV
 Une petite application/page web pour t'aider à facilement faire un CV qui soit propre et soigné.
