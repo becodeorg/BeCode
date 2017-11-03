@@ -1,10 +1,7 @@
 # Préparer sa candidature pour un stage/emploi
 
 ## Rédiger sa lettre de motivation
-**Montrez que vous connaissez l’entreprise**
-Que ça soit clair dès le départ : il n’y a pas de lettre de motivation qui soit parfaite. Ce que vous devez vous mettre en tête, c’est qu’une lettre de motivation est un message de pub pour vous vendre. Comment font les publicitaires pour vendre des produits ? Ils adaptent leur message en fonction de leur cible.
-
-**Structure du VOUS - JE - NOUS**
+**Structure traditionnelle du VOUS - JE - NOUS**
 - Vous = L’entreprise à laquelle vous adressez votre courrier et ce en quoi elle vous intéresse.
 - Moi =  Mon expérience professionnelle et mes compétences, ce que je peux apporter à cette entreprise.
 - Nous = Ce que l’entreprise et moi pouvons faire ensemble. Montrez en quoi vous êtes la personne qui répond le mieux aux attentes de cette société.
@@ -12,9 +9,8 @@ Que ça soit clair dès le départ : il n’y a pas de lettre de motivation qui 
 Ce schéma s’utilise pour répondre à une annonce comme pour faire une offre spontanée.
 [Lettre de motivation avec structure vous-je-nous sur le site de Manpower](https://www.manpower.ch/fr/lettre-de-motivation-style-structure)
 
-**Appel à l’action**
-Profitez de la formule de politesse pour faire un appel à l’action. 
-Au lieu de dire “Veuillez agréer mes salutations distinguées”, vous pouvez opter pour un “Dans l’attente de votre appel afin de convenir d’un entretien, veuillez agréer…”
+**Candidature moderne**
+Consultez cet excellent post d'[Amélie FAVRE GUITTET à propos de la lettre de motivation](https://www.linkedin.com/pulse/la-lettre-de-motivation-est-morte-am%C3%A9lie-favre-guittet/) qui, selon elle, est morte ! Elle donne beaucoup de conseils et explique les choses à ne surtout pas faire pour pondre une vraie candidature moderne et personnelle.
 
 **Petite note pour les nanas** : paraît-il que cela ne se fait pas d’envoyer ses sentiments. 
 
