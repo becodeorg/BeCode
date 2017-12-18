@@ -9,6 +9,8 @@ Ici, uniquement des ressources communes à toutes les écoles Becode.
 - [Utilisation de Ryver](ryver.md)
 - [Savoir utiliser Google pour faire des recherches efficaces](UtiliserGoogle.md)
 - [Savoir formuler une demande d'aide](ObtenirAide.md)
+
+- [L'après BeCode...](afterbecode.md)
 - [Préparer sa candidature pour un stage/job](preparersacandidature.md)
 
 Et pour toutes les ressources techniques, c'est sur le [Wiki](https://github.com/becodeorg/BeCode/wiki).
