@@ -47,7 +47,7 @@ Pour connaître les lieux, dates, coordonnées de toutes les formations sur Brux
 - http://optioncarriere.be 
 - http://jobat.be 
 - http://student.be
-- https://www.honeypot.io/
+- http://www.mindworks.be/
 
 ### Mesures d’aide à l’emploi
 [Inventaire des principales mesures d’aide à l’emploi - 2017](http://www.actiris.be/Portals/34/inventaire_aide_emploi_2017-11-09.pdf)
