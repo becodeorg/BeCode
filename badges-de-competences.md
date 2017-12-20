@@ -5,3 +5,7 @@ Tu as reçu des badges qui attestent de tes nouvelles compétences ? Tu veux les
 Voici deux tutos pour t'aider dans ta quête de reconnaissance :
 - [Premier tuto réalisé par Tan Phan, team Cycorp](https://github.com/TanPhanCy/tutobadge)
 - [Second tuto issu de la documentation de badgr.io](https://support.badgr.io/pages/viewpage.action?pageId=4554758)
+
+Du coup, ça donne ça : 
+
+![exemples de badges sur LinkedIn](img/badgesonlinkedin.png)
