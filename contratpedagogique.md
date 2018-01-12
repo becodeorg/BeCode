@@ -39,26 +39,28 @@ Le local est géré par l’ensemble des individus qui l’occupent. Une personn
 
 ### Respect des horaires, retards et absences
 
+Je respecte les horaires de formation.
+
 - Horaires de la formation : du lundi au vendredi, de 9H00 à 17h00
 - Pause du matin : de 11h à 11h15
 - Pause midi : de 12h30 à 13h30
 - Pause de l’après-midi : de 15h00 à 15h15
 
-Je respecte les horaires de formation.
-
-Un des objectifs de la formation est de professionnaliser les apprenant.e.s. En d’autres termes, les apprenant.e.s devront se comporter comme s’ils / elles intégraient une entreprise. Ainsi :
+Un des objectifs de la formation est de professionnaliser les apprenant·e·s. En d’autres termes, les apprenant·e·s devront se comporter comme s’ils / elles intégraient une entreprise. Ainsi :
 
 - Toute absence prévue doit être annoncée en envoyant un e-mail **au minimum un jour à l’avance** aux deux formateurs.
-- Toute absence ou retard doit être annoncé justifié par **un certificat ou un justificatif** qui sera remis aux formateurs. 
-- Pour les absences de plus de 2 jours, les justificatifs doivent être envoyés par e-mail aux 2 formateur·trice·s (photo ou scan) puis l’original sera remis aux formateur·trice·s lors du retour de l’apprenant·e. 
+- Toute absence ou retard doit être : 
+	1. annoncé par email aux deux formateurs et à l'administration de BeCode (admin AT becode.org)
+	2. justifié par **un certificat ou un justificatif** qui sera remis aux formateurs. 
+- Pour les absences de plus de 2 jours, les justificatifs doivent être envoyés par e-mail aux 2 formateur·trice·s (photo ou scan) dans les deux jours, puis l’original sera remis aux formateur·trice·s lors du retour de l’apprenant·e. 
 
-### Sanctions
+#### Sanctions
 
 Si ce n’est pas le cas, les sanctions suivantes seront mises en oeuvre : 
 
-- Deux retards non justifiés seront comptabilisés comme une absence ;
-- Deux absences entraîneront une convocation en entretien individuel ;
-- Six absences non justifiées entraîneront une exclusion définitive.
+- 2 retards non justifiés seront comptabilisés comme une absence ;
+- 2 absences entraîneront une convocation en entretien individuel ;
+- 6 absences non justifiées entraîneront une exclusion définitive.
 
 Rappel : **Antidater et/ou certifier faussement d’une maladie sont des infractions pénales punies par la loi**.
 
