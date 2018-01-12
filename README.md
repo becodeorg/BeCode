@@ -2,7 +2,7 @@
 
 Ce dépôt rassemble les ressources communes à toutes les écoles de Becode. 
 
-- [Contrat Pédagogique](ContratPedagogique.md)
+- [Contrat Pédagogique](./contratpedagogique.md)
 - [Comment participer au blog de BeCode](BlogBecode.md)
 - [Routine de la Brain Gym](BrainGymRoutine.md)
 - [Communication non violente](CommunicationNonViolente.md)
