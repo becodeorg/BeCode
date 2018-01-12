@@ -1,7 +1,8 @@
-## Welcome to Becode!
+## Welcome to BeCode
 
-Ici, uniquement des ressources communes à toutes les écoles Becode. 
+Ce dépôt rassemble les ressources communes à toutes les écoles de Becode. 
 
+- [Contrat Pédagogique](ContratPedagogique.md)
 - [Comment participer au blog de BeCode](BlogBecode.md)
 - [Routine de la Brain Gym](BrainGymRoutine.md)
 - [Communication non violente](CommunicationNonViolente.md)
