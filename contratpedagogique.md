@@ -50,9 +50,9 @@ Un des objectifs de la formation est de professionnaliser les apprenant·e·s. E
 
 - Toute absence prévue doit être annoncée en envoyant un e-mail **au minimum un jour à l’avance** aux deux formateurs.
 - Toute absence ou retard doit être : 
-	1. annoncé par email aux deux formateurs et à l'administration de BeCode (admin AT becode.org)
+	1. annoncé par email aux deux formateurs et à l'administration de BeCode (admin at becode point org)
 	2. justifié par **un certificat ou un justificatif** qui sera remis aux formateurs. 
-- Pour les absences de plus de 2 jours, les justificatifs doivent être envoyés par e-mail aux 2 formateur·trice·s (photo ou scan) dans les deux jours, puis l’original sera remis aux formateur·trice·s lors du retour de l’apprenant·e. 
+- Pour les absences de plus de 2 jours, les justificatifs doivent être envoyés par e-mail aux 2 formateur·trice·s et à admin (photo ou scan) dans les deux jours, puis l’original sera remis aux formateur·trice·s lors du retour de l’apprenant·e. 
 
 #### Sanctions
 
