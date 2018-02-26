@@ -3,7 +3,7 @@
 Tu veux partager des tutos, rédiger des petits posts pour raconter des tranches de vie de ta classe, publier les écrits que tu as préparés durant tes veilles et autres présentations ?
 Le plus simple, c'est d'utiliser un compte Medium. Tu peux te créer un compte en utilisant Twitter, Facebook ou Google. Pas besoin de créer un énième compte avec un énième mot de passe, ton compte Medium sera lié à ton compte Twitter, Facebook ou Google.
 
-Ensuite, tu envoies ton identifiant Medium à Tom (via Ryver, par exemple) pour qu'il t'ajoute au blog de Becode en tant que rédacteur/trice.
+Ensuite, tu envoies ton identifiant Medium à Emily (via Ryver ou par mail) pour qu'elle t'ajoute au blog de Becode en tant que rédacteur/trice.
 
 Ensuite, une fois que tu es passé/e rédacteur/trice, tu vas [write a story].
 
