@@ -4,6 +4,8 @@
 
 Using Hubot, write a bot that automagically replies to specific words on the Ryver chatroom.
 
+## Documentation and code you will need
+
 - [Ryver API](http://support.ryver.com/ryver-apis-overview/)
 - [HUBOT](https://hubot.github.com/) : Hubot is your friendly robot sidekick. Install him in your company to dramatically improve employee efficiency.
 - [RyverApp/hubot-ryver](https://github.com/RyverApp/hubot-ryver) : Hubot adapter for Ryver
