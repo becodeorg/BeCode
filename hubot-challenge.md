@@ -1,3 +1,5 @@
+
+![](https://hubot.github.com/assets/images/layout/hubot-avatar@2x.png)
 ## Mission
 
 Using Hubot, write a bot that automagically replies to specific words on the Ryver chatroom.
@@ -28,3 +30,5 @@ For example :
 Feel free to add more ideas, like :
 `joke` -> fetches a joke from a joke web service
 `kitten`-> fetches a kitten Gif from a kitten web service.
+
+![](https://hubot.github.com/assets/images/layout/schematic.svg)
