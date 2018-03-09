@@ -13,5 +13,6 @@ Ce dépôt rassemble les ressources communes à toutes les écoles de Becode.
 - [Insérer les badges badgr.io sur son profil LinkedIn](badges-de-competences.md)
 - [L'après BeCode...](afterbecode.md)
 - [Préparer sa candidature pour un stage/job](preparersacandidature.md)
+- [Discussion sur les tarifs/salaires](https://gist.github.com/pixeline/aaba236316e49084700b6add496c298c)
 
 Et pour toutes les ressources techniques, c'est sur le [Wiki](https://github.com/becodeorg/BeCode/wiki).
