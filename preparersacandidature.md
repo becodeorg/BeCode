@@ -18,6 +18,8 @@ Consultez cet excellent post d'[Amélie FAVRE GUITTET à propos de la lettre de 
 
 
 ## Générateur de CV
+
+### Enhancv
 Une petite application/page web pour t'aider à facilement faire un CV qui soit propre et soigné.
 
 A la question “mais tous nos CV vont se ressembler ?!”, la réponse est “pas forcément !”. Il suffit de changer un peu la disposition des modules, voire carrément de la mise en page du CV, de changer la typo, de mettre une jolie couleur et le tour est joué.
@@ -27,3 +29,9 @@ Petite astuce, vous inscrivez votre nom et votre prénom en gros, OK. Mais n’o
 Payant, mais test gratuit de 30 jours et suffisant. Après que tu l'as téléchargé, tu n'as plus besoin du site, sauf si tu veux changer quelque chose. Dans ce cas-là, tu peux te créer un compte dans l’optique de faire des modifications dans les 30 jours !
 
 [https://enhancv.com](https://enhancv.com)
+
+### Canva
+
+Moins restrictif que Enhancv, Canva permet d'être plus créatif et de créer et modifier ses propres modules (formations, XP professionnelles, hobby,...) comment on veut.
+
+[https://www.canva.com/](https://www.canva.com/)
