@@ -32,6 +32,10 @@ Payant, mais test gratuit de 30 jours et suffisant. Après que tu l'as télécha
 
 ### Canva
 
-Moins restrictif que Enhancv, Canva permet d'être plus créatif et de créer et modifier ses propres modules (formations, XP professionnelles, hobby,...) comment on veut.
+Moins restrictif que Enhancv, Canva permet d'être plus créatif et de créer et modifier ses propres modules (formations, XP professionnelles, hobby,...) comment on veut. Le petit plus : on peut se loguer via son compte Google, Facebook,...
 
 [https://www.canva.com/](https://www.canva.com/)
+
+### Google Doc
+
+Il y a pléthor de modèles de CV gratuits disponibles pour Google Doc.
