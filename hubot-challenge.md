@@ -29,15 +29,16 @@ For example :
 `late` -> creates a reply with this message :   
 > Don't forget to send beforehand an email to your coaches and admin@becode.org to inform them that you will be absent / late.
 `github`-> autoreply github.com/becodeorg .
+`help`-> the available list of commands.
 
 Feel free to add more ideas, like :
 
 `joke` -> fetches a joke from a joke web service
 `kitten`-> fetches a kitten Gif from a kitten web service.
 ...
-```
+
 
 ## Deliverable
-A repository with the needed code and the proper instructions to set it up along with configuration option explanations.
-
+- A repository with the needed code and the proper instructions to set it up along with configuration option explanations.
+- The bot script running on heroku  https://hubot.github.com/docs/deploying/heroku/
 ![](https://hubot.github.com/assets/images/layout/schematic.svg)
