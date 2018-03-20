@@ -35,7 +35,9 @@ Feel free to add more ideas, like :
 `joke` -> fetches a joke from a joke web service
 `kitten`-> fetches a kitten Gif from a kitten web service.
 ...
-
 ```
+
+## Deliverable
+A repository with the needed code and the proper instructions to set it up along with configuration option explanations.
 
 ![](https://hubot.github.com/assets/images/layout/schematic.svg)
