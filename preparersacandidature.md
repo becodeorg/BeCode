@@ -36,6 +36,10 @@ Moins restrictif que Enhancv, Canva permet d'être plus créatif et de créer et
 
 [https://www.canva.com/](https://www.canva.com/)
 
+### GitHub Resume
+
+Si tu souhaites mettre en valeur ton code via ton profil GitHub, tu peux utiliser [GitHub Resume](http://resume.github.io/). Ca génère automatiquement un CV à partir des informations issus de ton GitHub !
+
 ### Google Doc
 
 Il y a pléthor de modèles de CV gratuits disponibles pour Google Doc.
