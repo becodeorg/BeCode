@@ -19,21 +19,13 @@ Nous vous proposons plusieurs pistes pour vous mettre le pied à l’étrier, se
 - Job Yourself : http://jyb.be - Vous avez un projet ? Besoin de le réfléchir, de le construire ? Six mois maximum d’accompagnement de votre projet.
 
 ## Poursuivre une formation dans le développement web
-Pour connaître les lieux, dates, coordonnées de toutes les formations sur Bruxelles dans le domaine du web (ou autre), n’hésitez pas à consulter le site dorifor.be.
+Pour connaître les lieux, dates, coordonnées de toutes les formations sur Bruxelles dans le domaine du web (ou autre), n’hésitez pas à consulter le site http://www.dorifor.be/.
 
-### Les formations en développement web
-- CF2m à Saint-Gilles :  formation professionnelle de webdeveloper accessible aux demandeurs d’emploi inscrits chez Actiris. Sont prioritaires les personnes non titulaires du CESS. http://www.cf2m.be 
-- EPFC à Madou : formation professionnelle de webdeveloper. Obtention du Brevet d’enseignement supérieur (BES). https://www.epfc.eu/
-- IEPSCF : formation professionnel de webmaster : option webdeveloper. Obtention du Brevet d’enseignement supérieur (BES). http://www.iepscf-uccle.be/
-- Interface3 : formation professionnelle de webmaster réservée aux femmes, inscrites en tant que demandeuses d’emploi. Sont prioritaires les personnes titulaires du CESS. http://www.interface3.be/
-### Les formations en design web
-- CEFAID à Saint Gilles : formation professionnelle de webdesigner accessible aux demandeurs d’emploi inscrits chez Actiris. Sont prioritaires les personnes non titulaires du CESS. http://www.cefaid.be/
-- FIJ à Saint Gilles : formation professionnelle de webdesigner accessible uniquement aux personnes non titulaires du CESS. http://www.fij.be/
-- Cepegra : formation professionnelle de webdesigner et front-end developer accessibles aux demandeurs d’emploi. http://www.bruxellesformation.be/
 ### La piste online
-- [E-learning/autoformation](http://www.bruxellesformation.be/Demandeurs-d-emploi/formations-a-distance.html) via Bruxelles Formation : Accessibles aux demandeurs d’emploi inscrits chez Actiris. Gratuit. Durée de l’inscription et de l’accès à la plateforme d’e-learning : 3 mois. Renouvelable si toujours inscrit chez Actiris. Large choix de matières. Cours conçus par Elephorm.
-### Autres pistes de formation ?
-- http://www.dorifor.be/ : Annuaire de toutes les formations sur Bruxelles
+[E-learning/autoformation](http://www.bruxellesformation.be/Demandeurs-d-emploi/formations-a-distance.html) via Bruxelles Formation : Accessibles aux demandeurs d’emploi inscrits chez Actiris. Gratuit. Durée de l’inscription et de l’accès à la plateforme d’e-learning : 3 mois. Renouvelable si toujours inscrit chez Actiris. Large choix de matières. Cours conçus par Elephorm.
+
+### Prolonger l'accès à OpenClassRooms ?
+Envoyer un mail avec votre A15 (téléchargeable sur votre session Actiris) à epnf@bruxellesformation.brussels pour demander la prolongation de votre accès.
 
 ## Chercher un emploi
 ### Sites d’offres d’emploi
