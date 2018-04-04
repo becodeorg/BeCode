@@ -51,15 +51,12 @@ Pour connaître les lieux, dates, coordonnées de toutes les formations sur Brux
 - https://www.mynextcompany.eu/en/jobs
 
 ### Mesures d’aide à l’emploi
-[Inventaire des principales mesures d’aide à l’emploi - 2017](http://www.actiris.be/Portals/34/inventaire_aide_emploi_2017-11-09.pdf)
+[Inventaire des principales mesures d’aide à l’emploi - mars 2018](http://www.actiris.be/Portals/34/inventaire_aide_emploi_2018-03-14.pdf)
 Ce document est mis à jour soit tous les ans par Actiris, soit dès qu’une nouvelle réforme est mise en application.
 
-Le document “inventaire des principales mesures d’aide à l’emploi” peut vous aider à réaliser qu’il y a plusieurs options qui s’offrent à vous.
-Elles ne se limitent pas toutes à la région Bruxelles Capitale. Elles ne sont pas toutes limitées aux demandeurs d’emploi inscrits chez Actiris.
-
-Connaître ces mesures peut vous aider à négocier un contrat, à vous démarquer par rapport à d’autres candidats, à anticiper les prochains mois à venir...
-
-Il est à destination des employeurs. Mais pourquoi nous vous communiquons ce document ? Pour que vous ayez toutes les cartes en main pour négocier un contrat de travail ou un stage.
+### L'accompagnement vers l'emploi (coach, mentor)
+- [talent2connect](http://www.talent2connect.be/)
+- [Team4Job](http://www.team4job.be/)
 
 ## Contact
 Pour toute question, vous pouvez éventuellement les poser à Bérénice Daubie, votre contact chez Bruxelles Formation - b.daubie@bruxellesformation.be
