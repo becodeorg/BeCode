@@ -34,6 +34,7 @@ Envoyer un mail avec votre A15 (téléchargeable sur votre session Actiris) à e
 - http://reference.be 
 - http://monster.be 
 - http://linkedin.com (aussi !) 
+- https://welovedevs.com
 - http://ictjob.be 
 - http://indeed.be 
 - http://optioncarriere.be 
@@ -51,4 +52,4 @@ Ce document est mis à jour soit tous les ans par Actiris, soit dès qu’une no
 - [Team4Job](http://www.team4job.be/)
 
 ## Contact
-Pour toute question, vous pouvez éventuellement les poser à Bérénice Daubie, votre contact chez Bruxelles Formation - b.daubie@bruxellesformation.be
+Pour toute question, vous pouvez éventuellement les poser à Bérénice Daubie, votre contact chez Bruxelles Formation - b.daubie[at]bruxellesformation[point]be
