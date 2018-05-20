@@ -1,16 +1,15 @@
 # L’après BeCode
-*Notre promesse, c’est un stage.<br/>
-Notre objectif, c’est l’emploi.*
-
 
 Après BeCode, vous pouvez soit :
+
 - chercher un emploi ou un stage,
 - suivre une formation complémentaire, 
 - vous lancer dans un projet entrepreneurial.
 
-Nous vous proposons plusieurs pistes pour vous mettre le pied à l’étrier, selon ce que vous choisissez.
+Voici plusieurs pistes pour vous mettre le pied à l’étrier, selon ce que vous choisissez.
 
 ## Entreprendre
+
 - http://www.1819.be le site regroupant toutes les aides (conseils, subventions, …) pour les indépendants et entrepreneurs. Information is power.
 - Formation (gratuite, six semaines) pour apprendre à lancer une startup, être coaché et trouver des investisseurs, dans le même bâtiment que BeCode !  http://bestarter.org 
 - Smart ASBL : pas mal pour tester une carrière de freelance et que l’on n’a pas beaucoup de clients, via un statut de travailleur-salarié. http://smartbe.be/fr/a-propos/  Du coup, la smart fait ta compta, court après tes clients (donc pas de retard de paiement). Ils prélèvent taxes et impôts à la source + leur commission. 
@@ -19,12 +18,15 @@ Nous vous proposons plusieurs pistes pour vous mettre le pied à l’étrier, se
 - Job Yourself : http://jyb.be - Vous avez un projet ? Besoin de le réfléchir, de le construire ? Six mois maximum d’accompagnement de votre projet.
 
 ## Poursuivre une formation dans le développement web
+
 Pour connaître les lieux, dates, coordonnées de toutes les formations sur Bruxelles dans le domaine du web (ou autre), n’hésitez pas à consulter le site http://www.dorifor.be/.
 
 ### La piste online
+
 [E-learning/autoformation](http://www.bruxellesformation.be/Demandeurs-d-emploi/formations-a-distance.html) via Bruxelles Formation : Accessibles aux demandeurs d’emploi inscrits chez Actiris. Gratuit. Durée de l’inscription et de l’accès à la plateforme d’e-learning : 3 mois. Renouvelable si toujours inscrit chez Actiris. Large choix de matières. Cours conçus par Elephorm.
 
 ### Prolonger l'accès à OpenClassRooms ?
+
 Envoyer un mail avec votre A15 (téléchargeable sur votre session Actiris) à epnf@bruxellesformation.brussels pour demander la prolongation de votre accès.
 
 ## Chercher un emploi
