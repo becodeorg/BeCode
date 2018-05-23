@@ -1,5 +1,10 @@
 # Les badges badgr.io
 
+## Réclamer des badges
+:arrow_right: https://inside.becode.org/badges/
+
+## Intégrer les badges sur LinkedIn
+
 Tu as reçu des badges qui attestent de tes nouvelles compétences ? Tu veux les mettre sur LinkedIn sauf que tu ne parviens à les partager qu'en tant que post et c'est pas beau. Tu aimerais qu'ils figurent sur ton profil comme tes autres certifications acquises sur OpenClassRooms & co... Pas de souci !
 
 Voici deux tutos pour t'aider dans ta quête de reconnaissance :
