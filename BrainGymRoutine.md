@@ -4,18 +4,21 @@ Toutes les étapes se font tout doucement. Si une étape fait mal, on ne la fait
 
 **Étapes d'échauffement**
 
-1. se tenir droit en se recentrant sur soi
+1. se tenir droit en se recentrant sur soi. On imagine qu'un fil situé en haut de la tête nous tire vers le haut pour avoir le dos bien droit
 1. bonjour à son dos [1]
-1. mains vers plafond et on s'étire le plus possible : on imagine qu'un fil situé en haut de la tête nous tire vers le haut pour avoir le dos bien droit, on lève les mains vers le haut et on relâche doucement sur une expiration.
-1. cercles avec la tête, pour chauffer la nuque, tout doucement, dans un sens, puis dans l'autre
+1. mains vers plafond et on s'étire le plus possible : on se tient toujours bien droit, on lève les mains vers le haut dans l'inspiration. On tient, puis on relâche doucement sur une expiration. Ce n'est pas une compétition, on inspire et on respire à son rythme.
+1. cercles avec la tête, pour chauffer la nuque, tout doucement, dans un sens, puis dans l'autre. On peut imaginer qu'il y a une mine de crayon au bout de notre nez et qu'on doit dessiner des cercles de plus en plus grand avec.
 1. cercles avec les épaules, pour chauffer les articulations, en avant, puis en arrière
-1. échauffement mains
-1. échauffement chevilles
+1. échauffement mains : effectuer des mouvements de rotation des poignets
+1. échauffement chevilles : effectuer des mouvements de rotation des chevilles
+1. échauffement coudes et genoux : effectuer des mouvements de rotation des coudes puis des genoux
 1. épaules vers les oreilles [2]
 1. bonjour à son dos x 2
 
 
 **Étapes de brain gym - mouvements croisés**
+
+ATTENTION : L'exercice ne consiste pas à faire toucher les extrémités mais à bien effectuer un mouvement opposé du corps. Il est primordial de ne pas forcer et de risquer de se faire mal !
 
 1. mains/pieds avant (grenouille avant) : on situe sa main droite, on situe son pied gauche et on les fait se rejoindre sans forcément se toucher, vers l'avant. On alterne avec main gauche, pied droit. On recommence plusieurs fois.
 1. mains/pieds arrière : pareil mais vers l'arrière.
@@ -25,7 +28,7 @@ Toutes les étapes se font tout doucement. Si une étape fait mal, on ne la fait
 **Étapes de brain gym - contacts croisés**
 
 1. chevilles et bras croisés
-1. chevilles et bras décroisés, contacts par bout des doigts
+1. chevilles et bras décroisés + on fait se toucher le bout des doigts, comme si on entourait une balle invisible entre ses mains et ses doigts.
 
 On termine avec, de nouveau : 
 
