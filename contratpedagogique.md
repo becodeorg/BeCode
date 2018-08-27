@@ -7,19 +7,19 @@ Ce document explicite les règles à respecter par l’apprenant à BeCode, ains
 
 ## Table des matières
 
-- Règlement intérieur	
-	- Gestion collective du local	
-	- Respect des horaires, retards et absences
-	- Sanctions	
-- Le respect du matériel	
-	- La gestion avec l’extérieur	
-	- Pérennité - postérité	
-	- Ambiance de travail : collaboration et respect
-	- Accès et utilisation des ordinateurs
-- Objectifs pédagogiques de BeCode
-	- Les savoir-être	
-	- Les savoir-faire
-	- Les Savoirs
+- [Règlement intérieur](#règlement-intérieur)
+	- [Gestion collective du local](#gestion-collective-du-local)
+	- [Respect des horaires, retards et absences](#respect-des-horaires-retards-et-absences)
+		- [Sanctions](#sanctions)
+- [Le respect du matériel](#le-respect-du-matériel)
+	- [La gestion avec l’extérieur](#la-gestion-avec-lextérieur)
+	- [Pérennité - postérité](#pérennité---postérité)
+	- [Ambiance de travail : collaboration et respect](#ambiance-de-travail--collaboration-et-respect)
+	- [Accès et utilisation des ordinateurs](#accès-et-utilisation-des-ordinateurs)
+- [Objectifs pédagogiques de BeCode](#objectifs-pédagogiques-de-becode)
+	- [Les savoir-être](#les-savoir-être)
+	- [Les savoir-faire](#les-savoir-faire)
+	- [Les Savoirs](#les-savoirs)
 
 
 ## Règlement intérieur
@@ -48,12 +48,10 @@ Je respecte les horaires de formation.
 
 Un des objectifs de la formation est de professionnaliser les apprenant·e·s. En d’autres termes, les apprenant·e·s devront se comporter comme s’ils / elles intégraient une entreprise. Ainsi :
 
-- Toute absence prévue doit être annoncée en envoyant un e-mail **au minimum un jour à l’avance** aux deux formateurs.
+- Toute absence prévue doit être annoncée via l'interface [my.becode.org](https://my.becode.org/) **au minimum un jour à l’avance**.
 - Toute absence ou retard doit être : 
-	1. annoncé par email aux deux formateurs
-	2. annoncé via la plateforme [my.becode.org](https://my.becode.org/) ([mode d'emploi](https://github.com/becodeorg/BeCode/blob/master/procedure-mybecode.md))
-	2. justifié par **un certificat ou un justificatif** qui sera remis aux formateurs. 
-- Pour les absences de plus de 2 jours, les justificatifs doivent être envoyés par e-mail aux 2 formateur·trice·s et à admin (photo ou scan) dans les deux jours, puis l’original sera remis aux formateur·trice·s lors du retour de l’apprenant·e. 
+	1. annoncé via la plateforme [my.becode.org](https://my.becode.org/) ([mode d'emploi](https://github.com/becodeorg/BeCode/blob/master/procedure-mybecode.md))
+	1. justifié par **un certificat ou un justificatif** envoyé via my.becode.org puis qui sera remis en main propre aux formateurs. 
 
 #### Sanctions
 
