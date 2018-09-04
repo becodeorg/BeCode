@@ -16,6 +16,7 @@ Voici plusieurs pistes pour vous mettre le pied à l’étrier, selon ce que vou
 - http://www.youthstart.be/ - Youthstart dispense de formations consacrées à l’esprit d’entreprise et à l’entrepreneuriat aux jeunes de 18 à 30 ans.
 - www.jobframe.co - Ce nouveau service facilite le recrutement d’étudiants non-rémunérés et rémunérés en tant qu’étudiant-indépendant ( nouveau cadre légal depuis 2017)
 - Job Yourself : http://jyb.be - Vous avez un projet ? Besoin de le réfléchir, de le construire ? Six mois maximum d’accompagnement de votre projet.
+- https://www.ing.be/fr/business/my-business#starters - Sinon ING aussi a lancé un programme pour aider les débutants en entrepreneuriat et mis en place des outils avec accompagnateurs jusqu'au financement si le projet est bien. 
 
 ## Poursuivre une formation dans le développement web
 
