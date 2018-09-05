@@ -38,7 +38,7 @@ Envoyer un mail avec votre A15 (téléchargeable sur votre session Actiris) à e
 - http://monster.be 
 - http://linkedin.com (aussi !) 
 - https://welovedevs.com
-- http://ictjob.be 
+- http://ictjob.be <= et surtout l'onglet "stage" !
 - http://indeed.be 
 - http://optioncarriere.be 
 - http://jobat.be 
