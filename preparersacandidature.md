@@ -1,5 +1,9 @@
 # Préparer sa candidature pour un stage/emploi
 
+- [Rédiger sa lettre de motivation](#rédiger-sa-lettre-de-motivation)
+- [Générateur de CV](#générateur-de-cv)
+- Quelques sites pour trouver des boîtes intéressantes
+
 ## Rédiger sa lettre de motivation
 **Structure traditionnelle du VOUS - JE - NOUS**
 - Vous = L’entreprise à laquelle vous adressez votre courrier et ce en quoi elle vous intéresse.
@@ -43,3 +47,8 @@ Si tu souhaites mettre en valeur ton code via ton profil GitHub, tu peux utilise
 ### Google Doc
 
 Il y a pléthor de modèles de CV gratuits disponibles pour Google Doc.
+
+## Quelques sites pour trouver des agences intéressantes
+Comme par exemple Emakina, Grey, Ogilvy, Havas, Publicis,...
+- [Media Marketing](https://www.mm.be/) et notamment son [Agency Selector](https://www.mm.be/agency-selector-fr)
+- [Digimedia.be](https://digimedia.be/) et notamment sa section [Who's who](https://digimedia.be/directory-digital-fr.html)
