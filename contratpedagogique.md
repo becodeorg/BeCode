@@ -1,4 +1,4 @@
-# Contrat pédagogique 
+# Contrat pédagogique
 
 Le contrat pédagogique concerne la formation de développeur web à BeCode.
 
@@ -24,7 +24,7 @@ Ce document explicite les règles à respecter par l’apprenant à BeCode, ains
 
 ## Règlement intérieur
 
-Pour que la vie soit agréable à BeCode, certaines règles doivent être respectées par tous. Elles concernent la gestion collective du local, les horaires, le respect du matériel et la gestion avec l’extérieure.
+Pour que la vie soit agréable à BeCode, certaines règles doivent être respectées par tous. Elles concernent la gestion collective du local, les horaires, le respect du matériel et la gestion avec l’extérieur.
 
 Au-delà du règlement légal, d’autres règles doivent être appliquées pour une vie commune harmonieuse.
 
@@ -49,13 +49,13 @@ Je respecte les horaires de formation.
 Un des objectifs de la formation est de professionnaliser les apprenant·e·s. En d’autres termes, les apprenant·e·s devront se comporter comme s’ils / elles intégraient une entreprise. Ainsi :
 
 - Toute absence prévue doit être annoncée via l'interface [my.becode.org](https://my.becode.org/) **au minimum un jour à l’avance**.
-- Toute absence ou retard doit être : 
+- Toute absence ou retard doit être :
 	1. annoncé via la plateforme [my.becode.org](https://my.becode.org/) ([mode d'emploi](https://github.com/becodeorg/BeCode/blob/master/procedure-mybecode.md))
-	1. justifié par **un certificat ou un justificatif** envoyé via my.becode.org puis qui sera remis en main propre aux formateurs. 
+	1. justifié par **un certificat ou un justificatif** envoyé via my.becode.org puis qui sera remis en main propre aux formateurs.
 
 #### Sanctions
 
-Si ce n’est pas le cas, les sanctions suivantes seront mises en oeuvre : 
+Si ce n’est pas le cas, les sanctions suivantes seront mises en oeuvre :
 
 - 2 retards non justifiés seront comptabilisés comme une absence ;
 - 2 absences entraîneront une convocation en entretien individuel ;
@@ -66,7 +66,7 @@ Rappel : **Antidater et/ou certifier faussement d’une maladie sont des infract
 
 ### Le respect du matériel
 
-- Je fais attention au matériel que l’on me prête. 
+- Je fais attention au matériel que l’on me prête.
 - Si un dysfonctionnement apparaît j’en informe l’équipe.
 - Je m’engage à restituer le matériel emprunté dans l’état où je l’ai reçu.
 
@@ -74,22 +74,22 @@ Rappel : **Antidater et/ou certifier faussement d’une maladie sont des infract
 
 BeCode est situé dans un espace collectif où des entreprises résident. Il est nécessaire de les respecter :  
 
-- Je jette mes mégots dans les pots situés à cet effet près de la porte d’entrée
+- Je jette mes mégots de cigarette dans les pots ou poubelles situés à cet effet près de la porte d’entrée
 - Je ne jette pas autre chose que mes mégots dans ces mêmes pots.
 
 ### Pérennité - postérité
 
 Afin que BeCode puisse remplir ses engagements de reporting en tant qu’entreprise sociale et solidaire, les BeCodeur·euse·s s’engagent à répondre à des enquêtes de suivi à l’entrée de la formation, trois mois, six mois, douze mois et vingt-quatre mois après la fin de cette dernière.
 
-De même, ils / elles s’engagent à faire preuve de bonne volonté dans leur réponse aux sollicitations de témoignage dont ils pourraient faire l’objet, et à faire leurs meilleurs efforts pour prendre des BeCodeur·euse·s en stage et à les employer en priorité en fonction de leurs besoins.
+De même, ils / elles s’engagent à faire preuve de bonne volonté dans leur réponse aux sollicitations de témoignage dont ils pourraient faire l’objet. Il est également important d'avoir conscience du rôle de chacun dans la réputation de BeCode. Le comportement de chacun se doit être toujours professionnel.
 
 ### Ambiance de travail : collaboration et respect
 
-Les BeCodeur/se·s s’engagent à participer à des activités liées à leur formation qui les feront monter en compétence sur des aspects connexes à cette dernière, essentielles pour intégrer le marché de l’emploi. 
+Les BeCodeur/se·s s’engagent à participer à des activités liées à leur formation qui les feront monter en compétence sur des aspects connexes à cette dernière, essentielles pour intégrer le marché de l’emploi.
 
 A proximité des groupes qui travaillent en silence et dans la concentration, chacun doit veiller à maintenir une ambiance de travail la plus calme et silencieuse possible.
 
-Il est attendu de la part des BeCodeur/se·s qu’ils soient respectueux et tolérants les uns envers les autres dans leurs propos ainsi que dans leurs attitudes. 
+Il est attendu de la part des BeCodeur/se·s qu’ils soient respectueux et tolérants les uns envers les autres dans leurs propos ainsi que dans leurs attitudes.
 
 Rappel : **Les propos discriminatoires sont interdits et punissables par la loi**.
 
@@ -116,7 +116,7 @@ Ryver est la plateforme de communication quotidienne de BeCode. Il vous est dema
 - Être capable de mener des projets jusqu’à leur terme, contre vent et marées
 - Actualiser ses connaissances par une veille régulière
 
-**Esprit d'équipe**	
+**Esprit d'équipe**
 
 - Documenter correctement son code
 - Participer activement à l’activité du groupe
@@ -143,11 +143,11 @@ Ryver est la plateforme de communication quotidienne de BeCode. Il vous est dema
 **Compétences frontend**
 
 - Développer en respectant l'amélioration progressive
-- Écrire du html sémantique, accessible aux humains et aux moteurs de recherche
+- Écrire du HTML sémantique, accessible aux humains et aux moteurs de recherche
 - Écrire en markdown
 - Programmer en javascript
 - Automatiser son workflow avec gulp
-- Programmer en sass
+- Programmer en SASS
 - Utiliser des librairies Javascript (jQuery, d3.js..)
 - Utiliser des framework CSS (Bootstrap, Zurb...)
 - Optimiser ses pages pour le chargement (le Lighthouse Test)
@@ -157,7 +157,7 @@ Ryver est la plateforme de communication quotidienne de BeCode. Il vous est dema
 
 **Compétences backend**
 
-- Programmer dans un langage Middleware (php, RoR, nodejs ou ...)
+- Programmer dans un langage Middleware (PHP, RoR, nodejs ou ...)
 - Pouvoir déterminer quelle technologie pour quel usage
 - Pouvoir créer un REST API (standard: openAPI)
 - Mettre en place un CMS (wordpress) - faire un thème WordPress
@@ -169,8 +169,8 @@ Ryver est la plateforme de communication quotidienne de BeCode. Il vous est dema
 
 ### Les savoirs
 
-- Manipuler de manière pertinente les concepts-clefs suivants :
-- SEO  (white hat / black hat + référencement organique)
+Manipuler de manière pertinente les concepts-clefs suivants :
+- SEO (white hat / black hat + référencement organique)
 - Taux de conversion / Tunnels de conversion
 - Call-to-action
 - Amélioration progressive
@@ -180,6 +180,6 @@ Ryver est la plateforme de communication quotidienne de BeCode. Il vous est dema
 - Database
 - Framework (MVC, CSS, …)
 - API
-- Vocabulaire Git (pull request, merge, fork, branch …) 
+- Vocabulaire Git (pull request, merge, fork, branch …)
 - Sélecteurs CSS (ID et Classe, Ancestor/ parent/enfant)
 - Site statique vs. site dynamique
