@@ -55,4 +55,4 @@ Ce document est mis à jour soit tous les ans par Actiris, soit dès qu’une no
 - [Team4Job](http://www.team4job.be/)
 
 ## Contact
-Pour toute question, vous pouvez éventuellement les poser à Bérénice Daubie, votre contact chez Bruxelles Formation - b.daubie[at]bruxellesformation[point]be
+Pour toute question, vous pouvez éventuellement les poser à Eric (eric[at]becode[point]org).
