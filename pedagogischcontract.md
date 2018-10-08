@@ -14,6 +14,21 @@ Dit document legt de regels uit die door de leerling van BeCode moeten worden ge
 
 
 
+- [Internal regulations](#internal-regulations)
+	- [Collective management of the local](#gestion-collective-du-local)
+	- [Respect des horaires, retards et absences](#respect-des-horaires-retards-et-absences)
+		- [Sanctions](#sanctions)
+- [Le respect du matériel](#le-respect-du-matériel)
+	- [La gestion avec l’extérieur](#la-gestion-avec-lextérieur)
+	- [Pérennité - postérité](#pérennité---postérité)
+	- [Ambiance de travail : collaboration et respect](#ambiance-de-travail--collaboration-et-respect)
+	- [Accès et utilisation des ordinateurs](#accès-et-utilisation-des-ordinateurs)
+- [Objectifs pédagogiques de BeCode](#objectifs-pédagogiques-de-becode)
+	- [Les savoir-être](#les-savoir-être)
+	- [Les savoir-faire](#les-savoir-faire)
+	- [Les Savoirs](#les-savoirs)
+
+
 ## Intern regelement
 
 Om het leven aangenaam te maken voor BeCode, moeten sommige regels door iedereen worden gerespecteerd. Het gaat over het collectieve beheer van uw klas en het gebouw, de schema's, het respect van het materiaal en hoe om te gaan met de buitenwereld.
