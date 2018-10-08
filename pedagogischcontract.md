@@ -12,12 +12,12 @@ Dit document legt de regels uit die door de leerling van BeCode moeten worden ge
 	- [Collectief beheer van het klaslokaal](#collectief-beheer-van-het-klaslokaal)
 	- [Respect voor de planning: te laat en afwezigheden](#Respect-voor-de-planning-te-laat-en-afwezigheden)
 		- [Sancties](#sancties)
-- [Le respect du matériel](#le-respect-du-matériel)
+- [Respect voor het materiaal](#respect-voor-het-materiaal)
 	- [La gestion avec l’extérieur](#la-gestion-avec-lextérieur)
 	- [Pérennité - postérité](#pérennité---postérité)
 	- [Ambiance de travail : collaboration et respect](#ambiance-de-travail--collaboration-et-respect)
 	- [Accès et utilisation des ordinateurs](#accès-et-utilisation-des-ordinateurs)
-- [Objectifs pédagogiques de BeCode](#objectifs-pédagogiques-de-becode)
+- [Leerdoeleinden van BeCode](#leerdoeleinden-van-becode)
 	- [Les savoir-être](#les-savoir-être)
 	- [Les savoir-faire](#les-savoir-faire)
 	- [Les Savoirs](#les-savoirs)
@@ -52,8 +52,19 @@ Ik respecteer trainingsplanning inhoudend:
  
  - Elke geplande afwezigheid moet worden gemeld via het platform. [my.becode.org](https://my.becode.org/) **ten minste 1 dap op voorhand**
  - Elke afwezigheid of vertraging (of vroegtijdig vertrek uit het lokaal) moet worden:
- 	1. gemeld via het platform [my.becode.org](https://my.becode.org/) [manual of utilization](https://github.com/becodeorg/BeCode/blob/master/procedure-mybecode.md)
+ 	1. gemeld via het platform [my.becode.org](https://my.becode.org/) | [manual of utilization](https://github.com/becodeorg/BeCode/blob/master/procedure-mybecode.md)
 	1. gerechtvaardigd met **een medisch attest of een ander administratief bewijsstuk** die verzonden moet worden via my.becode.org  Het origineel moet daarna worden overhandigd aan de coaches zelf. 
 
 
-#### Sanctions
+#### Sancties
+
+Indien bovenstaande niet van toepassing is worden onderstaande sancties toegepast:
+ - 2 keer ongerechtvaardigd te laat komen (of vroegtijdig vertrek) wordt als afwezigheid gezien;
+ - 2 ongerechtvaardigde afwezigheden leidt tot een individueel gesprek;
+ - 6 ongerechtvaardigde afwezigheden heeft permanente lesuitsluiting tot gevolg.
+ - Als het verzuimpercentage (gerechtvaardigd of niet) hoger is dan 20%, kan BeCode beslissen over de definitieve lesuitsluiting.
+
+Ter herinnering: **Het veinzen van een ziekte en/of valsheid in geschrifte is wettelijk strafbaar**.
+
+## Leerdoeleinden van BeCode
+
