@@ -13,14 +13,14 @@ Dit document legt de regels uit die door de leerling van BeCode moeten worden ge
 	- [Respect voor de planning: te laat en afwezigheden](#Respect-voor-de-planning-te-laat-en-afwezigheden)
 		- [Sancties](#sancties)
 - [Respect voor het materiaal](#respect-voor-het-materiaal)
-	- [La gestion avec l’extérieur](#la-gestion-avec-lextérieur)
-	- [Pérennité - postérité](#pérennité---postérité)
-	- [Ambiance de travail : collaboration et respect](#ambiance-de-travail--collaboration-et-respect)
-	- [Accès et utilisation des ordinateurs](#accès-et-utilisation-des-ordinateurs)
+	- [Omgaan met de buitenwereld](#omgaan-met-de-buitenwereld)
+	- [Duurzaamheid - opvolging](#duurzaamheid---opvolging)
+	- [Werksfeer: teamwork en respect](#werksfeer-teamwork-en-respect)
+	- [Toegang tot en gebruik van computers](#toegang-tot-en-gebruik-van-computers)
 - [Leerdoeleinden van BeCode](#leerdoeleinden-van-becode)
-	- [Les savoir-être](#les-savoir-être)
-	- [Les savoir-faire](#les-savoir-faire)
-	- [Les Savoirs](#les-savoirs)
+	- [Life skills](#life-skills)
+	- [Expertise](#expertise)
+	- [Kennis](#kennis)
 
 
 ## Intern regelement
@@ -66,5 +66,50 @@ Indien bovenstaande niet van toepassing is worden onderstaande sancties toegepas
 
 Ter herinnering: **Het veinzen van een ziekte en/of valsheid in geschrifte is wettelijk strafbaar**.
 
+## Repect voor het materiaal
+
+### Omgaan met de buitenwereld
+
+### Duurzaamheid - opvolging
+
+Om BeCode zijn rapportageverplichtingen als een sociaal en solidair bedrijf te laten nakomen, verbindt BeCoders zich ertoe om aan het begin van de training, drie maanden, zes maanden, twaalf maanden, te reageren op vervolgonderzoeken. en vierentwintig maanden na het einde van de training.
+
+Ook verbinden zij zich ertoe goodwill te tonen in hun reactie op verzoeken om getuigenissen waaraan zij mogelijk zijn onderworpen. Het is ook belangrijk om op de hoogte te zijn van ieders rol in de reputatie van BeCode. Het gedrag van iedereen moet altijd professioneel zijn.
+
+
+
 ## Leerdoeleinden van BeCode
 
+### Life Skills
+**Organisatievaardigheden**
+
+ - Respecteren van/kunnen aanpassen aan je planning.
+ - Stipt en betrouwbaar zijn.
+ 
+**Prestatie**
+
+ - In staat zijn projecten, hoe moeilijk ook, tot het einde te volbrengen.
+ - Kennis blijven opdoen door dagelijkse vergadering over (nieuwe) technologieën.
+ 
+**Team Spirit**
+
+
+
+### Expertise
+
+### Kennis
+
+Onderstaande sleutelbegrippen correct kunnen toepassen:
+- SEO (white hat / black hat + organic referencing)
+- Conversion rate / conversion tunnels
+- Call-to-action
+- Progressive improvement
+- Responsive design
+- Data Visualization
+- Frontend, backend, CMS
+- Database
+- Framework (MVC, CSS,...)
+- API
+- Git vocabulary (pull request, merge, fork, branch,...)
+- CSS selector (ID and Class, Ancestor / parent / child)
+- Static vs website dynamic site
