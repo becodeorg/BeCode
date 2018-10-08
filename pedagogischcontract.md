@@ -8,9 +8,9 @@ Dit document legt de regels uit die door de leerling van BeCode moeten worden ge
 
 ## Inhoudstafel
 
-- [Intern regelement] (#intern-regelement)
-- [Collectief beheer van het klaslokaal](#collectief-beheer-van-het-klaslokaal)
-- [Respect voor de planning: te laat en afwezigheden](#Respect-voor-de-planning-te-laat-en-afwezigheden)
+- [Intern regelement](#intern-regelement)
+ - [Collectief beheer van het klaslokaal](#collectief-beheer-van-het-klaslokaal)
+ - [Respect voor de planning: te laat en afwezigheden](#Respect-voor-de-planning-te-laat-en-afwezigheden)
 
 
 
