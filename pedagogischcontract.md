@@ -9,15 +9,9 @@ Dit document legt de regels uit die door de leerling van BeCode moeten worden ge
 ## Inhoudstafel
 
 - [Intern regelement](#intern-regelement)
-        - [Collectief beheer van het klaslokaal](#collectief-beheer-van-het-klaslokaal)
-        - [Respect voor de planning: te laat en afwezigheden](#Respect-voor-de-planning-te-laat-en-afwezigheden)
-
-
-
-- [Internal regulations](#internal-regulations)
-	- [Collective management of the local](#gestion-collective-du-local)
-	- [Respect des horaires, retards et absences](#respect-des-horaires-retards-et-absences)
-		- [Sanctions](#sanctions)
+	- [Collectief beheer van het klaslokaal](#collectief-beheer-van-het-klaslokaal)
+	- [Respect voor de planning: te laat en afwezigheden](#Respect-voor-de-planning-te-laat-en-afwezigheden)
+		- [Sancties](#sancties)
 - [Le respect du matériel](#le-respect-du-matériel)
 	- [La gestion avec l’extérieur](#la-gestion-avec-lextérieur)
 	- [Pérennité - postérité](#pérennité---postérité)
@@ -48,3 +42,18 @@ Dat houdt in:
 
 ### Respect voor de planning: te laat en afwezigheden
 
+Ik respecteer trainingsplanning inhoudend:
+ - Trainingsuren van maandag tot vrijdag, van 9u tot 17u.
+ - Voormiddagpauze: 11u tot 11u15.
+ - Middagpauze: 12u30 tot 13u30.
+ - Namiddagpauze: 15u tot 15u15.
+ 
+ Een van de trainingsdoelen is om de junior developers te professionaliseren. Met andere woorden, je junior developers moeten zich gedragen alsof ze in een echt bedrijf zijn geïntegreerd. Inhoudend:
+ 
+ - Elke geplande afwezigheid moet worden gemeld via het platform. [my.becode.org](https://my.becode.org/) **ten minste 1 dap op voorhand**
+ - Elke afwezigheid of vertraging (of vroegtijdig vertrek uit het lokaal) moet worden:
+ 	1. gemeld via het platform [my.becode.org](https://my.becode.org/) [manual of utilization](https://github.com/becodeorg/BeCode/blob/master/procedure-mybecode.md)
+	1. gerechtvaardigd met **een medisch attest of een ander administratief bewijsstuk** die verzonden moet worden via my.becode.org  Het origineel moet daarna worden overhandigd aan de coaches zelf. 
+
+
+#### Sanctions
