@@ -95,7 +95,7 @@ In de nabijheid van groepen die in stilte en concentratie werken, moet iedereen 
 
 BeCoders zullen naar verwachting zowel respectvol en tolerant ten opzichte van elkaar zijn, zowel in hun woorden als in hun houding.
 
-Herinnering: ** Discriminatie, in elke vorm, is verboden en is wettelijk strafbaar **.
+Herinnering: **Discriminatie, in elke vorm, is verboden en is wettelijk strafbaar**.
 
 
 ### Toegang tot en gebruik van computers
