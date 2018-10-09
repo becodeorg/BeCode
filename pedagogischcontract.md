@@ -9,7 +9,7 @@ Dit document legt de regels uit die door de leerling van BeCode moeten worden ge
 
 - [Intern regelement](#intern-regelement)
 	- [Collectief beheer van het klaslokaal](#collectief-beheer-van-het-klaslokaal)
-	- [Respect voor de planning: te laat en afwezigheden](#Respect-voor-de-planning-te-laat-en-afwezigheden)
+	- [Respect voor de planning: te laat en afwezigheden](#respect-voor-de-planning-te-laat-en-afwezigheden)
 		- [Sancties](#sancties)
 - [Respect voor het materiaal](#respect-voor-het-materiaal)
 	- [Omgaan met de buitenwereld](#omgaan-met-de-buitenwereld)
