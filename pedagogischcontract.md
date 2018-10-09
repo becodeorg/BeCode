@@ -6,6 +6,7 @@ Dit document verklaart de regels
 
 Dit document legt de regels uit die door de leerling van BeCode moeten worden gerespecteerd, evenals de vaardigheden om te ontwikkelen en de doelstellingen die door de leerling moeten worden bereikt op het gebied van kennis, soft skills en harde vaardigheden. Het stelt de leerling en de trainers in staat om een goed wederzijds begrip te hebben van de inhoud en doelstellingen van de training. Bemerk dat dit een intentie is en dat het feitelijke leren op het tempo van de leerling zal verlopen.
 
+
 ## Inhoudstafel
 
 - [Intern regelement](#intern-regelement)
@@ -66,9 +67,20 @@ Indien bovenstaande niet van toepassing is worden onderstaande sancties toegepas
 
 Ter herinnering: **Het veinzen van een ziekte en/of valsheid in geschrifte is wettelijk strafbaar**.
 
+
 ## Repect voor het materiaal
 
+ - Ik draag zorg voor het materiaal en breng alles terug in de staat dat je het gekregen hebt.
+ - Als er een storing/probleem optreedt, breng ik het team hiervan op de hoogte.
+
+
 ### Omgaan met de buitenwereld
+
+BeCode bevindt zich in een collectieve ruimte waar bedrijven gevestigd zijn. Het is noodzakelijk om ze te respecteren:
+
+- Ik gooi mijn sigarettenpeuken in de potten die zich in de buurt van de voordeur bevinden.
+- Ik gooi niets anders dan mijn peuken in deze potten.
+
 
 ### Duurzaamheid - opvolging
 
@@ -76,6 +88,29 @@ Om BeCode zijn rapportageverplichtingen als een sociaal en solidair bedrijf te l
 
 Ook verbinden zij zich ertoe goodwill te tonen in hun reactie op verzoeken om getuigenissen waaraan zij mogelijk zijn onderworpen. Het is ook belangrijk om op de hoogte te zijn van ieders rol in de reputatie van BeCode. Het gedrag van iedereen moet altijd professioneel zijn.
 
+
+### Werksfeer: teamwork en respect
+
+Junior developers zijn toegewijd om deel te nemen aan trainingsgerelateerde activiteiten die hun vaardigheden vergroten die essentieel zijn om de arbeidsmarkt te betreden.
+
+In de nabijheid van groepen die in stilte en concentratie werken, moet iedereen voorzichtig zijn om de rustigste en de rustigste werkomgeving mogelijk te houden.
+
+BeCoders zullen naar verwachting zowel respectvol en tolerant ten opzichte van elkaar zijn, zowel in hun woorden als in hun houding.
+
+Herinnering: ** Discriminatie, in elke vorm, is verboden en is wettelijk strafbaar **.
+
+
+### Toegang tot en gebruik van computers
+
+Computers zijn strikt persoonlijk. Om aan de BeCode-pedagogie te voldoen, is alleen de persoon aan wie het toestel is uitgeleend bevoegd  om zijn computer te gebruiken. Trainers mogen geen andere computer aanraken dan die van hen (althans niet zonder toestemming). Andere studenten hebben ook niet het recht om de computer van iemand anders aan te raken. Daarbij moet elke leerling zelf coderen, een oplossing zoeken en/of een probleem zelf oplossen. Het is natuurlijk ten strengste verboden om naar de computers van de leden van het onderwijsteam te gaan.
+
+Wat betreft het uitlenen van de computers, u bent en blijft eindverantwoordelijk voor het gebruik van. 
+Van leerlingen wordt verwacht dat ze computers uitsluitend voor hun werk gebruiken.
+
+
+### Regelgeving omtrent Ryver
+
+Ryver is het dagelijkse communicatieplatform van BeCode. U wordt gevraagd om uw voornaam en uw achternaam in de displaynaam te vermelden. Bij profielfoto wordt u gevraagd een herkenbare foto te maken van uw of een recente foto te uploaden. Het is een professioneel communicatieplatform, dus u wordt gevraagd om professioneel te handelen. Misbruik wordt bestraft.
 
 
 ## Leerdoeleinden van BeCode
@@ -93,23 +128,70 @@ Ook verbinden zij zich ertoe goodwill te tonen in hun reactie op verzoeken om ge
  
 **Team Spirit**
 
+ - Om uw code correct te documenteren / van commentaar te voorzien.
+ - Om actief deel te nemen aan de groepsactiviteit.
+ - Om constructieve kritiek te geven.
+ - Om positief constructieve kritiek te ontvangen.
+ - Om initiatief en leiderschap te tonen.
+ - Om te weten hoe te luisteren.
 
 
 ### Expertise
 
+ - Assertief en geweldloos communiceren.
+ - Communiceer schriftelijk (beknopt) en correct (spelling).
+ - Presenteer overtuigend in het openbaar.
+ - Passief begrip van het Engels.
+ - Agile methodiek.
+ - User-centric ontwerpmethodiek.
+
+**Autonoom leren**
+
+ - In staat zijn om nieuwe technologieën zelf aan te kunnen leren.
+ - In staat zijn om educatieve stappenplannen op te stellen.
+
+
+**Frontend skills**
+
+ - Ontwikkel met respect voor progressieve verbetering.
+ - Schrijfen van semantische HTML, toegankelijk voor mensen en zoekmachines.
+ - Schrijven van markdown.
+ - Programmeren in JavaScript.
+ - Automatiseren van uw worflow met gulp 
+ - Programmeren in SASS
+ - Gebruiken van van bestaande Javascript libraries(jQuery, d3.js, ..)
+ - Gebruiken van CSS frameworks (Bootstrap, Zurb, ..)
+ - Laadtijd van pagina`s optimalizeren (The Lighthouse Test)
+ - Ontwikkelen van prograssive web apps
+ - Interactieve afbeeldingen creëren
+ - Gebruik maken de laatste technologieën: Node.js & angular
+ 
+
+**Backend skills**
+
+ - Programmeren in een middleware-taal (PHP, RoR, nodejs, ...).
+ - Het doeleinde van verschillende technologieën kunnen bepalen.
+ - Een REST API ontwikkelen (standaard: openAPI)
+ - Opzetten van een CMS (wordpress) - Maken van een WordPress theme
+ - Gebruik maken van staging/productie omgeving.
+ - Database: MySQL en MongoDB.
+ - Technologische beslissingen maken aan de hand van het type project.
+ - Rekening houden met beveiligingsproblemen. SQL injections, Honeypot, tegenoffensief....
+ 
+ 
 ### Kennis
 
 Onderstaande sleutelbegrippen correct kunnen toepassen:
-- SEO (white hat / black hat + organic referencing)
-- Conversion rate / conversion tunnels
-- Call-to-action
-- Progressive improvement
-- Responsive design
-- Data Visualization
-- Frontend, backend, CMS
-- Database
-- Framework (MVC, CSS,...)
-- API
-- Git vocabulary (pull request, merge, fork, branch,...)
-- CSS selector (ID and Class, Ancestor / parent / child)
-- Static vs website dynamic site
+ - SEO (white hat / black hat + organic referencing)
+ - Conversion rate / conversion tunnels
+ - Call-to-action
+ - Progressive improvement
+ - Responsive design
+ - Data Visualization
+ - Frontend, backend, CMS
+ - Database
+ - Framework (MVC, CSS,...)
+ - API
+ - Git vocabulaire (pull request, merge, fork, branch,...)
+ - CSS selectoren (ID and Class, Ancestor / parent / child)
+ - Statische vs dynamische website
