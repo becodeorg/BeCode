@@ -2,7 +2,7 @@
 
 Het pedagogisch contract betreft de training van webontwikkelaar bij BeCode.
 
-Dit document legt de regels uit die door de leerling van BeCode moeten worden gerespecteerd, evenals de vaardigheden om te ontwikkelen en de doelstellingen die door de leerling moeten worden bereikt op het gebied van kennis, soft skills en harde vaardigheden. Het stelt de leerling en de trainers in staat om een goed wederzijds begrip te hebben van de inhoud en doelstellingen van de training. Bemerk dat dit een intentie is en dat het feitelijke leren op het tempo van de leerling zal verlopen.
+Dit document legt de regels uit die door de junior developer van BeCode moeten worden gerespecteerd, evenals de vaardigheden om te ontwikkelen en de doelstellingen die door de junior developer moeten worden bereikt op het gebied van kennis, soft skills en harde vaardigheden. Het stelt de junior developer en de trainers in staat om een goed wederzijds begrip te hebben van de inhoud en doelstellingen van de training. Bemerk dat dit een intentie is en dat het feitelijke leren op het tempo van de junior developer zal verlopen.
 
 
 ## Inhoudstafel
@@ -47,7 +47,7 @@ Ik respecteer trainingsplanning inhoudend:
  - Middagpauze: 12u30 tot 13u30.
  - Namiddagpauze: 15u tot 15u15.
  
- Een van de trainingsdoelen is om de junior developers te professionaliseren. Met andere woorden, je junior developers moeten zich gedragen alsof ze in een echt bedrijf zijn geïntegreerd. Inhoudend:
+ Een van de trainingsdoelen is om de junior developers te professionaliseren. Met andere woorden, de junior developers moeten zich gedragen alsof ze in een echt bedrijf zijn geïntegreerd. Inhoudend:
  
  - Elke geplande afwezigheid moet worden gemeld via het platform. [my.becode.org](https://my.becode.org/) **ten minste 1 dap op voorhand**
  - Elke afwezigheid of vertraging (of vroegtijdig vertrek uit het lokaal) moet worden:
