@@ -2,8 +2,6 @@
 
 Het pedagogisch contract betreft de training van webontwikkelaar bij BeCode.
 
-Dit document verklaart de regels
-
 Dit document legt de regels uit die door de leerling van BeCode moeten worden gerespecteerd, evenals de vaardigheden om te ontwikkelen en de doelstellingen die door de leerling moeten worden bereikt op het gebied van kennis, soft skills en harde vaardigheden. Het stelt de leerling en de trainers in staat om een goed wederzijds begrip te hebben van de inhoud en doelstellingen van de training. Bemerk dat dit een intentie is en dat het feitelijke leren op het tempo van de leerling zal verlopen.
 
 
