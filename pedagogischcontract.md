@@ -49,7 +49,7 @@ Ik respecteer trainingsplanning inhoudend:
  
  Een van de trainingsdoelen is om de junior developers te professionaliseren. Met andere woorden, de junior developers moeten zich gedragen alsof ze in een echt bedrijf zijn geïntegreerd. Inhoudend:
  
- - Elke geplande afwezigheid moet worden gemeld via het platform. [my.becode.org](https://my.becode.org/) **ten minste 1 dap op voorhand**
+ - Elke geplande afwezigheid moet worden gemeld via het platform. [my.becode.org](https://my.becode.org/) **ten minste 1 dag op voorhand**
  - Elke afwezigheid of vertraging (of vroegtijdig vertrek uit het lokaal) moet worden:
  	1. gemeld via het platform [my.becode.org](https://my.becode.org/) | [manual of utilization](https://github.com/becodeorg/BeCode/blob/master/procedure-mybecode.md)
 	1. gerechtvaardigd met **een medisch attest of een ander administratief bewijsstuk** die verzonden moet worden via my.becode.org  Het origineel moet daarna worden overhandigd aan de coaches zelf. 
