@@ -7,7 +7,7 @@ Dit document legt de regels uit die door de junior developer van BeCode moeten w
 
 ## Inhoudstafel
 
-- [Intern regelement](#intern-regelement)
+- [Intern reglement](#intern-reglement)
 	- [Collectief beheer van het klaslokaal](#collectief-beheer-van-het-klaslokaal)
 	- [Respect voor de planning: te laat en afwezigheden](#respect-voor-de-planning-te-laat-en-afwezigheden)
 		- [Sancties](#sancties)
@@ -22,7 +22,7 @@ Dit document legt de regels uit die door de junior developer van BeCode moeten w
 	- [Kennis](#kennis)
 
 
-## Intern regelement
+## Intern reglement
 
 Om het leven aangenaam te maken voor BeCode, moeten sommige regels door iedereen worden gerespecteerd. Het gaat over het collectieve beheer van uw klas en het gebouw, de schema's, het respect van het materiaal en hoe om te gaan met de buitenwereld.
 
@@ -35,7 +35,7 @@ Het klaslokaal wordt beheerd door alle personen die het bezetten. Een persoon di
 
 Dat houdt in:
  - Ik gooi mijn eigen afval in de juiste vuilbakken.
- - Ik hou de gemeendschappelijke toiletten proper.
+ - Ik hou de gemeenschappelijke toiletten proper.
  - Ik laat mijn tafel proper achter op het einde van de dag.
 
 
@@ -43,11 +43,13 @@ Dat houdt in:
 
 Ik respecteer trainingsplanning inhoudend:
  - Trainingsuren van maandag tot vrijdag, van 9u tot 17u.
- - Voormiddagpauze: 11u tot 11u15.
+ - Voor-Middagpauze: 11u tot 11u15.
  - Middagpauze: 12u30 tot 13u30.
- - Namiddagpauze: 15u tot 15u15.
+ - Na-middagpauze: 15u tot 15u15.
  
- Een van de trainingsdoelen is om de junior developers te professionaliseren. Met andere woorden, de junior developers moeten zich gedragen alsof ze in een echt bedrijf zijn geïntegreerd. Inhoudend:
+ Een van de trainingsdoelen is om de junior developers te professionaliseren. Met andere woorden, de junior developers moeten zich gedragen alsof ze in een echt bedrijf zijn geïntegreerd. 
+
+Inhoudend:
  
  - Elke geplande afwezigheid moet worden gemeld via het platform. [my.becode.org](https://my.becode.org/) **ten minste 1 dag op voorhand**
  - Elke afwezigheid of vertraging (of vroegtijdig vertrek uit het lokaal) moet worden:
@@ -60,13 +62,13 @@ Ik respecteer trainingsplanning inhoudend:
 Indien bovenstaande niet van toepassing is worden onderstaande sancties toegepast:
  - 2 keer ongerechtvaardigd te laat komen (of vroegtijdig vertrek) wordt als afwezigheid gezien;
  - 2 ongerechtvaardigde afwezigheden leidt tot een individueel gesprek;
- - 6 ongerechtvaardigde afwezigheden heeft permanente lesuitsluiting tot gevolg.
- - Als het verzuimpercentage (gerechtvaardigd of niet) hoger is dan 20%, kan BeCode beslissen over de definitieve lesuitsluiting.
+ - 6 ongerechtvaardigde afwezigheden heeft definitieve uitsluiting tot gevolg.
+ - Als het verzuimpercentage (gerechtvaardigd of niet) hoger is dan 20%, kan BeCode beslissen over de definitieve definitieve uitsluiting.
 
 Ter herinnering: **Het veinzen van een ziekte en/of valsheid in geschrifte is wettelijk strafbaar**.
 
 
-## Repect voor het materiaal
+## Respect voor het materiaal
 
  - Ik draag zorg voor het materiaal en breng alles terug in de staat dat je het gekregen hebt.
  - Als er een storing/probleem optreedt, breng ik het team hiervan op de hoogte.
@@ -89,7 +91,7 @@ Ook verbinden zij zich ertoe goodwill te tonen in hun reactie op verzoeken om ge
 
 ### Werksfeer: teamwork en respect
 
-Junior developers zijn toegewijd om deel te nemen aan trainingsgerelateerde activiteiten die hun vaardigheden vergroten die essentieel zijn om de arbeidsmarkt te betreden.
+Junior developers zijn toegewijd om deel te nemen aan trainings gerelateerde activiteiten die hun vaardigheden vergroten die essentieel zijn om de arbeidsmarkt te betreden.
 
 In de nabijheid van groepen die in stilte en concentratie werken, moet iedereen voorzichtig zijn om de rustigste en de rustigste werkomgeving mogelijk te houden.
 
@@ -98,7 +100,7 @@ BeCoders zullen naar verwachting zowel respectvol en tolerant ten opzichte van e
 Herinnering: **Discriminatie, in elke vorm, is verboden en is wettelijk strafbaar**.
 
 
-### Toegang tot en gebruik van computers
+### Toegang tot/en gebruik van computers
 
 Computers zijn strikt persoonlijk. Om aan de BeCode-pedagogie te voldoen, is alleen de persoon aan wie het toestel is uitgeleend bevoegd  om zijn computer te gebruiken. Trainers mogen geen andere computer aanraken dan die van hen (althans niet zonder toestemming). Andere studenten hebben ook niet het recht om de computer van iemand anders aan te raken. Daarbij moet elke leerling zelf coderen, een oplossing zoeken en/of een probleem zelf oplossen. Het is natuurlijk ten strengste verboden om naar de computers van de leden van het onderwijsteam te gaan.
 
@@ -108,7 +110,7 @@ Van leerlingen wordt verwacht dat ze computers uitsluitend voor hun werk gebruik
 
 ### Regelgeving omtrent Ryver
 
-Ryver is het dagelijkse communicatieplatform van BeCode. U wordt gevraagd om uw voornaam en uw achternaam in de displaynaam te vermelden. Bij profielfoto wordt u gevraagd een herkenbare foto te maken van uw of een recente foto te uploaden. Het is een professioneel communicatieplatform, dus u wordt gevraagd om professioneel te handelen. Misbruik wordt bestraft.
+Ryver is het dagelijkse communicatieplatform van BeCode. U wordt gevraagd om uw voornaam en uw achternaam in de display naam te vermelden. Bij profielfoto wordt u gevraagd een herkenbare foto te maken van uw of een recente foto te uploaden. Het is een professioneel communicatieplatform, dus u wordt gevraagd om professioneel te handelen. Misbruik wordt bestraft.
 
 
 ## Leerdoeleinden van BeCode
@@ -152,15 +154,15 @@ Ryver is het dagelijkse communicatieplatform van BeCode. U wordt gevraagd om uw 
 **Frontend skills**
 
  - Ontwikkel met respect voor progressieve verbetering.
- - Schrijfen van semantische HTML, toegankelijk voor mensen en zoekmachines.
+ - Schrijven van semantische HTML, toegankelijk voor mensen en zoekmachines.
  - Schrijven van markdown.
  - Programmeren in JavaScript.
- - Automatiseren van uw worflow met gulp 
+ - Automatiseren van uw workflow met gulp 
  - Programmeren in SASS
  - Gebruiken van van bestaande Javascript libraries(jQuery, d3.js, ..)
  - Gebruiken van CSS frameworks (Bootstrap, Zurb, ..)
  - Laadtijd van pagina`s optimalizeren (The Lighthouse Test)
- - Ontwikkelen van prograssive web apps
+ - Ontwikkelen van progressive web apps
  - Interactieve afbeeldingen creëren
  - Gebruik maken de laatste technologieën: Node.js & angular
  
@@ -174,7 +176,7 @@ Ryver is het dagelijkse communicatieplatform van BeCode. U wordt gevraagd om uw 
  - Gebruik maken van staging/productie omgeving.
  - Database: MySQL en MongoDB.
  - Technologische beslissingen maken aan de hand van het type project.
- - Rekening houden met beveiligingsproblemen. SQL injections, Honeypot, tegenoffensief....
+ - Rekening houden met beveiligingsproblemen. SQL injections, Honeypot, tegen offensief....
  
  
 ### Kennis
@@ -193,3 +195,5 @@ Onderstaande sleutelbegrippen correct kunnen toepassen:
  - Git vocabulaire (pull request, merge, fork, branch,...)
  - CSS selectoren (ID and Class, Ancestor / parent / child)
  - Statische vs dynamische website
+
+
