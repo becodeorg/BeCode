@@ -3,6 +3,10 @@
 - [Rédiger sa lettre de motivation](#rédiger-sa-lettre-de-motivation)
 - [Générateur de CV](#générateur-de-cv)
 - [Quelques sites pour trouver des boîtes intéressantes](#quelques-sites-pour-trouver-des-agences-int%C3%A9ressantes)
+- [Recherche de stage, recherche de job](https://docs.google.com/presentation/d/1MzUh-P5n6skTVrgnC54PR0KUQ0j138cvwuwe2ioYtv0/edit?usp=sharing)
+- [Comment perfectionner son profil GitHub](https://docs.google.com/presentation/d/1bqstC-6DNz_p-Fb_p5bSn7h2p6OEqRC0OXzHZJt4Diw/edit?usp=sharing)
+- [Comment optimiser son profil LinkedIn](https://docs.google.com/presentation/d/13Iv4DULRRGYvK84ctEKBtQAVpETP-_3ImYOX9xyUOEY/edit?usp=sharing)
+- [Où postuler ?](https://github.com/becodeorg/BeCode/blob/master/afterbecode.md#chercher-un-emploi)
 
 ## Rédiger sa lettre de motivation
 **Structure traditionnelle du VOUS - JE - NOUS**
