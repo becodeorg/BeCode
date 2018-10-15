@@ -47,8 +47,8 @@ Envoyer un mail avec votre A15 (téléchargeable sur votre session Actiris) à e
 - https://www.mynextcompany.eu/en/jobs
 
 ### Mesures d’aide à l’emploi
-[Inventaire des principales mesures d’aide à l’emploi - mars 2018](http://www.actiris.be/Portals/34/inventaire_aide_emploi_2018-03-14.pdf)
-Ce document est mis à jour soit tous les ans par Actiris, soit dès qu’une nouvelle réforme est mise en application.
+[Inventaire des principales mesures d’aide à l’emploi - septembre 2018](http://www.actiris.be/Portals/34/inventaire_aide_emploi_2018-09-04.pdf)
+Ce document est mis à jour soit tous les ans par Actiris, soit dès qu’une nouvelle réforme est mise en application. Pour trouver la dernière version, il vous suffit de faire une recherche google si celle qui est reprise ci-dessus n'est plus d'actualité.
 
 ### L'accompagnement vers l'emploi (coach, mentor)
 - [talent2connect](http://www.talent2connect.be/)
