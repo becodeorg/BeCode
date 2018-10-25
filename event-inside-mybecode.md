@@ -1,4 +1,4 @@
-# my.becode.org INFORMATION
+# How and why encode your participation to event inside my.becode.org
 
 Hi folks!
 We are proud to announce that you can now have access to the **event section** inside my.becode.org.    
@@ -16,4 +16,4 @@ For example: "**Meaningful Code by Yann Lemin**" was a **conference** animated *
 
 About "**workshop**" and "**workshop animation**": 
 - if you participate to a workshop => **workshop**. 
-- if YOU animate the workshop => **workshop animation**
+- if YOU ANIMATE the workshop => **workshop animation**
