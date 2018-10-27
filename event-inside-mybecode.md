@@ -5,7 +5,7 @@ We are proud to announce that you can now have access to the [**events section**
 
 ## Why do it ?
 
-To indicate that you participated in events like hackathons, code initiation for kids, hosted a workshop, went to a conference ...  during your training at BeCode.    
+To indicate that you participated in events like hackathons, code initiation for kids, hosted a workshop, went to a conference ...  during your training at BeCode. They will appear on your personal file at FOREM/VDAB/ACTIRIS. They will also appear on your personal profile on talents.becode.org (in preparation).    
 
 Make sure to also mention each Watch and/or workshop you animated in front of your startup! #publicspeaking #ftw
 
