@@ -1,17 +1,19 @@
 # How and why encode your participation to event inside my.becode.org
 
 Hi folks!
-We are proud to announce that you can now have access to the **event section** inside my.becode.org.    
-What's its purpose?    
-To indicate that you participate to events during your path.    
-Did you go to a hackathon? A code initiation? A workshop? A conference?
+We are proud to announce that you can now have access to the [**events section**](https://my.becode.org/eventusers) on [my.becode.org](https://my.becode.org/eventusers).    
 
-Did you animate a watch? Nice! When? What was it about?    
+## Why do it ?
 
-Did you animate a workshop? Great! When? What was it about?
+To indicate that you participated in events like hackathons, code initiation for kids, hosted a workshop, went to a conference ...  during your training at BeCode.    
 
-For example: "**Meaningful Code by Yann Lemin**" was a **conference** animated **23rd august**.
+Make sure to also mention each Watch and/or workshop you animated in front of your startup! #publicspeaking #ftw
+
+For example: "**Meaningful Code by Yann Lemin**" was a **conference** animated on **23rd august 2018**.
 
 About "**workshop**" and "**workshop animation**": 
-- if you participate to a workshop => **workshop**. 
+
+- if you attend a workshop => **workshop**. 
 - if YOU ANIMATE the workshop => **workshop animation**
+
+Happy eventing !
