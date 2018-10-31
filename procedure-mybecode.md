@@ -37,7 +37,7 @@ Exemple : rendez-vous administratif
 - coche « Early departure and late arrival »
 - note la ou les raisons de ton retard ou de ton départ anticipé. 
 
-ℹ️ Un retard ou un départ anticipé sans justificatif équivaux à une demi-journée d’absence injustifiée. Il est possible d’uploader une photo (ou un PDF) de ton justificatif par après.
+ℹ️ Un retard ou un départ anticipé sans justificatif équivaut à une demi-journée d’absence injustifiée. Il est possible d’uploader une photo (ou un PDF) de ton justificatif par après.
 
 ### Retard non prévu mais justifiable 
 Exemple : retard SNCB
