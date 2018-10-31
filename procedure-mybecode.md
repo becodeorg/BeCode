@@ -2,15 +2,15 @@
 Comment utiliser la plateforme my.becode.org pour les absences/retards/départs anticipés ?
 
 - Procédures
-    - Absence non prévue avec justificatif
-    - Retard prévu avec justificatif
-    - Retard non prévu mais justifiable 
-    - Absence prévue à l'avance
-    - Absence pour un événement BeCode
+    - [Absence non prévue avec justificatif](#absence-non-prévue-avec-justificatif)
+    - [Retard prévu avec justificatif](#retard-prévu-avec-justificatif)
+    - [Retard non prévu mais justifiable](#retard-non-prévu-mais-justifiable)
+    - [Absence prévue à l'avance](#absence-prévue-à-lavance)
+    - [Absence pour un événement BeCode](#absence-pour-un-événement-becode)
 - Documents à transmettre
-    - Attestation Participation Evenement
-    - Demande absence exceptionnelle
-    - Déclaration sur l'honneur
+    - [Attestation Participation Evenement](#attestation-de-participation-à-un-évènement)
+    - [Demande absence exceptionnelle](#demande-dabsence-exceptionnelle)
+    - [Déclaration sur l'honneur](#déclaration-sur-lhonneur)
     
 ## Procédure
 ### Absence non prévue avec justificatif 
@@ -54,9 +54,12 @@ Exemple : retard SNCB
 
 ## Documents
 Ce sont les documents officiels que vous devez introduire dans my.becode.org dans le cas de participation à des événements, rendez-vous de stage, grève,... Vous devez les faire signer par vos coachs AVANT de les envoyer dans my.becode.org sinon, ils ne seront pas considérés comme valide.
-### Attestation de participation à un évènement [[doc](https://drive.google.com/open?id=1eYnm-aO4o7ABMrj3Ra0kzA1eYd_apoEFoFp28AFKCEo)]
+### Attestation de participation à un évènement 
+[[doc](https://drive.google.com/open?id=1eYnm-aO4o7ABMrj3Ra0kzA1eYd_apoEFoFp28AFKCEo)]
 A remplir en cas de hackathon, CoderDojo, workshop externe, Jobday,... (tous les évènements BeCode qui se passe en dehors de la classe).
-### Demande d'absence exceptionnelle [[doc](https://drive.google.com/open?id=10f1aYfy1lbytk8Dg8ll3YZOTvPRg0FpGrbn9FnuQHE8)]
+### Demande d'absence exceptionnelle 
+[[doc](https://drive.google.com/open?id=10f1aYfy1lbytk8Dg8ll3YZOTvPRg0FpGrbn9FnuQHE8)]
 A remplir en cas d'entretien de stage, de journée pédagogique (la journée durant laquelle les coachs ne sont pas là).
-### Déclaration sur l'honneur [[doc](https://drive.google.com/open?id=0B1mdnkbeKh9FbFVVTTlxRGVlWm5fNDN3U2Y3RXBzYmE1cmhR)]
+### Déclaration sur l'honneur 
+[[doc](https://drive.google.com/open?id=0B1mdnkbeKh9FbFVVTTlxRGVlWm5fNDN3U2Y3RXBzYmE1cmhR)]
 A remplir en cas de grève des transports publics, retard de train.
