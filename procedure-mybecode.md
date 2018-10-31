@@ -1,5 +1,5 @@
 # My BeCode
-Comment utiliser la plateforme my.becode.org pour les absences/retards/départs anticipés ?
+Comment utiliser la plateforme my.becode.org pour les absences/retards/départs anticipés/événements ?
 
 - Procédures
     - [Absence non prévue avec justificatif](#absence-non-prévue-avec-justificatif)
