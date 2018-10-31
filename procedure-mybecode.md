@@ -61,7 +61,7 @@ Exemple : retard SNCB
 ## Documents
 Ce sont les documents officiels que vous devez introduire dans my.becode.org dans le cas de participation à des événements, rendez-vous de stage, grève,... Vous devez les faire signer par vos coachs AVANT de les envoyer dans my.becode.org sinon, ils ne seront pas considérés comme valides.
 ### Attestation de participation à un évènement 
-📜 [[doc](https://drive.google.com/open?id=1eYnm-aO4o7ABMrj3Ra0kzA1eYd_apoEFoFp28AFKCEo)]
+📜 [[doc](https://drive.google.com/open?id=1eYnm-aO4o7ABMrj3Ra0kzA1eYd_apoEFoFp28AFKCEo)] - [[doc version FOREM](https://docs.google.com/document/d/1eYnm-aO4o7ABMrj3Ra0kzA1eYd_apoEFoFp28AFKCEo/edit?usp=sharing)]
 A remplir en cas de hackathon, CoderDojo, workshop externe, Jobday,... (tous les évènements BeCode qui se passe en dehors de la classe).
 ### Demande d'absence exceptionnelle 
 📜 [[doc](https://drive.google.com/open?id=10f1aYfy1lbytk8Dg8ll3YZOTvPRg0FpGrbn9FnuQHE8)]
