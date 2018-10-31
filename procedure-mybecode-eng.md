@@ -1,4 +1,5 @@
 # My BeCode
+[[Version francophone](procedure-mybecode.md)]    
 How to use my.becode.org for absences/delays/early departures/events?
 
 - Process
@@ -7,8 +8,8 @@ How to use my.becode.org for absences/delays/early departures/events?
     - [Delay not planned but justifiable](#Delay-not-planned-but-justifiable)
     - [Absence planned](#absence-planned)
     - [Absence for a BeCode event](#absence-for-a-BeCode-event)
-- Documents BeCode to communicate : lesquels et dans quel cas
-    - [Attestation Participation Evenement](#attestation-de-participation-à-un-évènement)
+- Documents BeCode to communicate : which ones and in which case
+    - [Attestation Participation Evenement](#attestation-participation-evenement)
     - [Demande absence exceptionnelle](#demande-dabsence-exceptionnelle)
     - [Déclaration sur l'honneur](#déclaration-sur-lhonneur)
 - Into my.becode
