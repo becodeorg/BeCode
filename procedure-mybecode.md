@@ -11,6 +11,11 @@ Comment utiliser la plateforme my.becode.org pour les absences/retards/départs 
     - [Attestation Participation Evenement](#attestation-de-participation-à-un-évènement)
     - [Demande absence exceptionnelle](#demande-dabsence-exceptionnelle)
     - [Déclaration sur l'honneur](#déclaration-sur-lhonneur)
+- Dans my.becode
+    - Early departure or late arrival
+    - Long-term absence
+    - Early departure and late arrival for a BeCode event
+    - Long-term absence from a BeCode event
     
 ## Procédure
 ### Absence non prévue avec justificatif 
@@ -63,3 +68,16 @@ A remplir en cas d'entretien de stage, de journée pédagogique (la journée dur
 ### Déclaration sur l'honneur 
 [[doc](https://drive.google.com/open?id=0B1mdnkbeKh9FbFVVTTlxRGVlWm5fNDN3U2Y3RXBzYmE1cmhR)]
 A remplir en cas de grève des transports publics, retard de train.
+
+## Dans my.becode
+### Early departure or late arrival
+A utiliser quand j'arrive après 9h ou quand je pars plus tôt que 17h.
+### Long-term absence
+A utiliser quand je suis absent pendant un ou plusieurs jours
+### Early departure and late arrival for a BeCode event
+A utiliser quand j'arrive après 9h ou quand je pars plus tôt que 17h mais dans le cadre d'un événement BeCode => Workshop externe
+### Long-term absence from a BeCode event
+A utiliser quand je suis absent pendant un ou plusieurs jours mais dans le cadre d'un événement BeCode => Hackathon, Coach' Pedagogical Day
+
+
+![screenshot absence mybecode](img/mybecode.gif)
