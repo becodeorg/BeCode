@@ -71,13 +71,13 @@ A remplir en cas de grève des transports publics.
 
 ## Dans my.becode
 ### Early departure or late arrival
-A utiliser quand j'arrive après 9h ou quand je pars plus tôt que 17h.
+A utiliser quand tu arrives après 9h ou quand tu pars plus tôt que 17h.
 ### Long-term absence
-A utiliser quand je suis absent pendant un ou plusieurs jours
+A utiliser quand tu es absent pendant un ou plusieurs jours
 ### Early departure and late arrival for a BeCode event
-A utiliser quand j'arrive après 9h ou quand je pars plus tôt que 17h mais dans le cadre d'un événement BeCode => Workshop externe
+A utiliser quand tu arrives après 9h ou quand tu pars plus tôt que 17h mais dans le cadre d'un événement BeCode => Workshop externe
 ### Long-term absence from a BeCode event
-A utiliser quand je suis absent pendant un ou plusieurs jours mais dans le cadre d'un événement BeCode => Hackathon, Coach' Pedagogical Day
+A utiliser quand tu es absent pendant un ou plusieurs jours mais dans le cadre d'un événement BeCode => Hackathon, Coach' Pedagogical Day
 
 
 ![screenshot absence mybecode](img/mybecode.gif)
