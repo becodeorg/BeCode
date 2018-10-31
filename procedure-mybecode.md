@@ -12,10 +12,10 @@ Comment utiliser la plateforme my.becode.org pour les absences/retards/départs 
     - [Demande absence exceptionnelle](#demande-dabsence-exceptionnelle)
     - [Déclaration sur l'honneur](#déclaration-sur-lhonneur)
 - Dans my.becode
-    - Early departure or late arrival
-    - Long-term absence
-    - Early departure and late arrival for a BeCode event
-    - Long-term absence from a BeCode event
+    - [Early departure or late arrival](#early-departure-or-late-arrival)
+    - [Long-term absence](#long-term-absence)
+    - [Early departure and late arrival for a BeCode event](#early-departure-and-late-arrival-for-a-becode-event)
+    - [Long-term absence from a BeCode event](#long-term-absence-from-a-becode-event)
     
 ## Procédure
 ### Absence non prévue avec justificatif 
