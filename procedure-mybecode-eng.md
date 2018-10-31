@@ -58,13 +58,13 @@ Example : retard SNCB
 ## Documents
 These are the official documents that you must join in my.becode.org in the case of participation of events, internship appointment, strike,... You must have them signed by your coaches BEFORE sending them in my.becode.org otherwise, they will not be considered valid.
 ### Attestation Participation Evenement
-[[doc](https://drive.google.com/open?id=1eYnm-aO4o7ABMrj3Ra0kzA1eYd_apoEFoFp28AFKCEo)]
+📜 [[doc](https://drive.google.com/open?id=1eYnm-aO4o7ABMrj3Ra0kzA1eYd_apoEFoFp28AFKCEo)]
 To fill in case of hackathon, CoderDojo, workshop externe, Jobday,... (all BeCode events happening outside the class).
 ### Demande d'absence exceptionnelle 
-[[doc](https://drive.google.com/open?id=10f1aYfy1lbytk8Dg8ll3YZOTvPRg0FpGrbn9FnuQHE8)]
+📜 [[doc](https://drive.google.com/open?id=10f1aYfy1lbytk8Dg8ll3YZOTvPRg0FpGrbn9FnuQHE8)]
 To fill in case of internship interview, pedagogical day (the day during which the coaches are not there).
 ### Déclaration sur l'honneur 
-[[doc](https://drive.google.com/open?id=0B1mdnkbeKh9FbFVVTTlxRGVlWm5fNDN3U2Y3RXBzYmE1cmhR)]
+📜 [[doc](https://drive.google.com/open?id=0B1mdnkbeKh9FbFVVTTlxRGVlWm5fNDN3U2Y3RXBzYmE1cmhR)]
 To fill in case of public transport strike.
 
 ## In my.becode
