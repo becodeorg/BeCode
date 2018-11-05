@@ -1,22 +1,23 @@
-# Blog Becode : comment participer depuis Medium
+# Blog Becode : How to participate from Medium
 
-Tu veux partager des tutos, rédiger des petits posts pour raconter des tranches de vie de ta classe, publier les écrits que tu as préparés durant tes veilles et autres présentations ?
-Le plus simple, c'est d'utiliser un compte Medium. Tu peux te créer un compte en utilisant Twitter, Facebook ou Google. Pas besoin de créer un énième compte avec un énième mot de passe, ton compte Medium sera lié à ton compte Twitter, Facebook ou Google.
+You want to share tuto, write small posts to tell stories about what happen inside BeCode, publish some awesome stuff you prepare for your watch or workshop?    
+The easiest way is to use Medium. You can create your account using Twitter, Google or Facebook so you don't have to create another account and remember another password.
 
-Ensuite, tu envoies ton identifiant Medium à Emily (via Ryver ou par mail) pour qu'elle t'ajoute au blog de Becode en tant que rédacteur/trice.
+Then, once you have written your post on Medium, you can send the draft to Emily (in French or in English. For Flemish, please contact another coach).    
+Once your post is read and reviewed, you will become an official writer on the BeCode's blog. 
 
-Ensuite, une fois que tu es passé/e rédacteur/trice, tu peux lier ton post au blog de becode, il suffit de 
-- cliquer sur [...],
-- ensuite sur [Add to publication],
-- puis tu coches [Becode],
-- et enfin, tu cliques sur [Add draft].
+When you are a writer, you can do link your post to the BeCode blog (a blog is called a "publication" on Medium):
+- click on [...],
+- then on [Add to publication],
+- then check on [Becode],
+- and finally click on [Add draft].
 
 ![how to add a post to a publication](img/medium-add-a-draft-to-publication.gif)
 
-### Attention
-- Ton contenu sera relu avant publication mais tâche quand même de faire attention à l'orthographe. Fais en sorte également que ton post soit compréhensible par tous.
-- Également, avant de proposer des posts avec des photos/images, garde bien à l'esprit qu'on doit toujours demander l'autorisation d'une personne figurant sur une photo avant de la publier. Également, si tu utilises des images, cite toujours la source et/ou l'auteur.
+### Beware!
+- Your content will be reviewed by coach but please, do your possible to make your post understandable and without spelling or grammatical errors.
+- Please if you use picture of someone, always ask the autorisation to publish it before publishing it. May this person be on the picture or be the author of it.. And, if you use pictures, always quote the author.
 
 ### Bonus
 
-[Petits conseils de Quincy Larson, de FreeCodeCamp](https://medium.freecodecamp.org/how-to-write-medium-stories-people-will-actually-read-92e58a27c8d8)
+[Little advices from Quincy Larson, from FreeCodeCamp](https://medium.freecodecamp.org/how-to-write-medium-stories-people-will-actually-read-92e58a27c8d8)
