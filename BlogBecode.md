@@ -5,13 +5,13 @@ Le plus simple, c'est d'utiliser un compte Medium. Tu peux te créer un compte e
 
 Ensuite, tu envoies ton identifiant Medium à Emily (via Ryver ou par mail) pour qu'elle t'ajoute au blog de Becode en tant que rédacteur/trice.
 
-Ensuite, une fois que tu es passé/e rédacteur/trice, tu vas [write a story].
-
-Pour lier ton post au blog de becode, il suffit de 
-- cliquer sur [publish],
+Ensuite, une fois que tu es passé/e rédacteur/trice, tu peux lier ton post au blog de becode, il suffit de 
+- cliquer sur [...],
 - ensuite sur [Add to publication],
 - puis tu coches [Becode],
 - et enfin, tu cliques sur [Add draft].
+
+![how to add a post to a publication](img/medium-add-a-draft-to-publication.gif)
 
 ### Attention
 - Ton contenu sera relu avant publication mais tâche quand même de faire attention à l'orthographe. Fais en sorte également que ton post soit compréhensible par tous.
