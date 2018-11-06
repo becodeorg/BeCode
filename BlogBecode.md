@@ -1,4 +1,4 @@
-# BLog BeCode: Wanna be an official writer on the blog?
+# Blog BeCode: Wanna be an official writer on the blog?
 
 You want to share tuto, write small stories about what happen inside BeCode, publish some awesome stuff you prepared for your watch or workshop?    
 The easiest way is to use Medium. The better way is to publish it on the BeCode's blog.
