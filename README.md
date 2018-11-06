@@ -6,13 +6,15 @@
 |[Educational Contract](educationalcontract)|[Contrat Pédagogique](./contratpedagogique.md)     |    [Pedagogisch Contract](./pedagogischcontract.md)|
 | to come up |     [Utilisation de Ryver](ryver.md)     |     to come up|
 
-## How to use my.becode.org
+### How to use my.becode.org
 | English    |     Français     |        Nederlands |
 | :------------ | :-------------: | -------------: |
-|[For delays and absences](procedure-mybecode-eng.md)|[Comment utiliser my.becode.org pour les absences et retards](procedure-mybecode.md)|to come up|
-|[To notify I participate or animate an event](event-inside-mybecode)|Pour mentionner dans mon parcours que j'ai participé ou animé un événement| to come up|
-|To searching for a job/internship|Rechercher un job/stage|to come up|
-|To have a professionnal profile on Talent|Avoir mon profil professionnel sur Talent| to come up|
+|[For delays and **absences**](procedure-mybecode-eng.md)|[Comment utiliser my.becode.org pour les **absences** et retards](procedure-mybecode.md)|to come up|
+|How to claim your skill **badges**|Comment demander vos **badges** de compétences|to come up|
+|To have a professionnal profile on **Talent**|Avoir mon profil professionnel sur **Talent**| to come up|
+|To have a professionnal profile on **Talent**|Avoir mon profil professionnel sur **Talent**| to come up|
+|[To notify I participate or animate an **event**](event-inside-mybecode)|Pour mentionner dans mon parcours que j'ai participé ou animé un **événement**| to come up|
+|To searching for a **job/internship**|Rechercher un **job/stage**|to come up|
 
 **Talent** is the professionnal plateform made by BeCode that connect Juniors and employers (or clients).    
 *Talent is currently in development. Be patient, it will be awesome!*
