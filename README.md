@@ -9,11 +9,10 @@
 ### How to use my.becode.org
 | English    |     Français     |        Nederlands |
 | :------------ | :-------------: | -------------: |
-|[For delays and **absences**](procedure-mybecode-eng.md)|[Comment utiliser my.becode.org pour les **absences** et retards](procedure-mybecode.md)|to come up|
+|[For delays and **absences**](mybecode-absence-eng.md)|[Comment utiliser my.becode.org pour les **absences** et retards](mybecode-absence-fr.md)|to come up|
 |How to claim your skill **badges**|Comment demander vos **badges** de compétences|to come up|
 |To have a professionnal profile on **Talent**|Avoir mon profil professionnel sur **Talent**| to come up|
-|To have a professionnal profile on **Talent**|Avoir mon profil professionnel sur **Talent**| to come up|
-|[To notify I participate or animate an **event**](event-inside-mybecode)|Pour mentionner dans mon parcours que j'ai participé ou animé un **événement**| to come up|
+|To [notify I participate or animate an **event**](mybecode-event-eng.md)|Pour [mentionner dans mon parcours que j'ai participé ou animé un **événement**](mybecode-event-eng.md)| to come up|
 |To searching for a **job/internship**|Rechercher un **job/stage**|to come up|
 
 **Talent** is the professionnal plateform made by BeCode that connect Juniors and employers (or clients).    
@@ -33,7 +32,7 @@ You feel inside you the motivation to become a project manager, a communication 
 
 | English    |     Français     |        Nederlands |
 | :------------ | :-------------: | -------------: |
-| [Wanna be an official writer on the blog?](BlogBecode.md) |[Comment participer au blog de BeCode](BlogBecodeFR.md)|to come|
+| [Wanna be an official writer on the blog?](BlogBecode-eng.md) |[Comment participer au blog de BeCode](BlogBeCode-fr.md)|to come|
 | Wanna manage BeCode's client projects? |Tu veux gérer les projets clients de BeCode ?||
 
 ### How to prepare yourself professionally
