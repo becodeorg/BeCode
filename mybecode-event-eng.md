@@ -11,9 +11,9 @@ Make sure to also mention each Watch and/or workshop you animated in front of yo
 
 For example: "**Meaningful Code by Yann Lemin**" was a **conference** animated on **23rd august 2018**.
 
-About "**workshop**" and "**workshop animation**":
+About "**workshop participation**" and "**workshop animation**":
 
-- if you attend a workshop => **workshop**.
+- if you attend a workshop => **workshop participation**.
 - if YOU ANIMATE the workshop => **workshop animation**.
 
 ![how to ad an event on mybecode](img/mybecode-add-an-event.gif)

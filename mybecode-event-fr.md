@@ -12,11 +12,11 @@ Tout ceci apparaîtra dans votre dossier personnel au FOREM / Actiris / VDAB (un
 
 Soyez sûrs de mentionner également les veilles et les workshops que vous avez animées ! #publicspeaking #ftw
 
-Par exemple : "**Meaningful Code de Yann Lemin**" était une **conference** animée le **23 août 2018**.
+Exemple : "**Meaningful Code de Yann Lemin**" était une **conference** animée le **23 août 2018**.
 
-À propos de la différence entre "**workshop**" et "**workshop animation**" :
+À propos de la différence entre "**workshop participation**" et "**workshop animation**" :
 
-- si tu assistes à un workshop => **workshop**.
+- si tu assistes à un workshop => **workshop participation**.
 - si tu animes un workshop => **workshop animation**.
 
 ![Comment ajouter un événement](img/mybecode-add-an-event.gif)
