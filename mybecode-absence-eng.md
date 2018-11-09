@@ -1,4 +1,5 @@
-# My BeCode
+# my.becode.org: absences
+
 [[Version francophone](procedure-mybecode.md)]    
 How to use my.becode.org for absences/delays/early departures/events?
 
@@ -17,11 +18,11 @@ How to use my.becode.org for absences/delays/early departures/events?
     - [Long-term absence](#long-term-absence)
     - [Early departure and late arrival for a BeCode event](#early-departure-and-late-arrival-for-a-becode-event)
     - [Long-term absence from a BeCode event](#long-term-absence-from-a-becode-event)
-    
+
 ## Process
 ### Absence not planned with proof
 Example : sickness
-- go to « Absence planner » 
+- go to « Absence planner »
 - check « Long-term absence »
 - explain the reason of your absence
 
@@ -32,15 +33,15 @@ Go to « Absence notifier », retrouve l'absence à justifier, envoie le documen
 
 ### Delay planned with proof
 Exemple : rendez-vous administratif
-- go to « Absence planner » 
+- go to « Absence planner »
 - check « Early departure and late arrival »
-- explain the reason of your early departure or your late arrival 
+- explain the reason of your early departure or your late arrival
 
 ℹ️ A delay or early departure without proof is equivalent to half a day of unjustified absence. It is possible to upload a photo (or PDF) of your proof afterwards.
 
 ### Delay not planned but justifiable
 Example : retard SNCB
-- got to « Absence planner » 
+- got to « Absence planner »
 - check « Early departure and late arrival »
 - explain the reason
 - send the proof of train delay that you will find on the SNCB website.
@@ -60,10 +61,10 @@ These are the official documents that you must join in my.becode.org in the case
 ### Attestation Participation Evenement
 📜 [[doc](https://drive.google.com/open?id=1eYnm-aO4o7ABMrj3Ra0kzA1eYd_apoEFoFp28AFKCEo)]
 To fill in case of hackathon, CoderDojo, workshop externe, Jobday,... (all BeCode events happening outside the class).
-### Demande d'absence exceptionnelle 
+### Demande d'absence exceptionnelle
 📜 [[doc](https://drive.google.com/open?id=10f1aYfy1lbytk8Dg8ll3YZOTvPRg0FpGrbn9FnuQHE8)]
 To fill in case of internship interview, pedagogical day (the day during which the coaches are not there).
-### Déclaration sur l'honneur 
+### Déclaration sur l'honneur
 📜 [[doc](https://drive.google.com/open?id=0B1mdnkbeKh9FbFVVTTlxRGVlWm5fNDN3U2Y3RXBzYmE1cmhR)]
 To fill in case of public transport strike.
 

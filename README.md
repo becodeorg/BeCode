@@ -13,7 +13,7 @@
 |How to claim your skill **badges**|Comment demander vos **badges** de compétences|to come up|
 |To have a professionnal profile on **Talent**|Avoir mon profil professionnel sur **Talent**| to come up|
 |To [notify I participate or animate an **event**](mybecode-event-eng.md)|Pour [mentionner dans mon parcours que j'ai participé ou animé un **événement**](mybecode-event-eng.md)| to come up|
-|To searching for a **job/internship**|Rechercher un **job/stage**|to come up|
+|To [searching for a **job/internship**](mybecode-jobs-fr.md)|Rechercher un **job/stage**|to come up|
 
 **Talent** is the professionnal plateform made by BeCode that connect Juniors and employers (or clients).    
 *Talent is currently in development. Be patient, it will be awesome!*
@@ -33,7 +33,8 @@ You feel inside you the motivation to become a project manager, a communication 
 | English    |     Français     |        Nederlands |
 | :------------ | :-------------: | -------------: |
 | [Wanna be an official writer on the blog?](BlogBecode-eng.md) |[Comment participer au blog de BeCode](BlogBeCode-fr.md)|to come|
-| Wanna manage BeCode's client projects? |Tu veux gérer les projets clients de BeCode ?||
+| Wanna manage BeCode's client projects? |Tu veux gérer les projets clients de BeCode ?|to come up|
+| Wanna be in charge of the monthly newsletter? |Tu veux gérer la newsletter ?|to come up|
 
 ### How to prepare yourself professionally
 | English    |     Français     |        Nederlands |
@@ -45,6 +46,5 @@ You feel inside you the motivation to become a project manager, a communication 
 
 ### BONUS
 - [Routine de la Brain Gym](BrainGymRoutine.md)
-- [Communication non violente](CommunicationNonViolente.md)
 
 Et pour toutes les ressources techniques, c'est sur le [Wiki](https://github.com/becodeorg/BeCode/wiki).

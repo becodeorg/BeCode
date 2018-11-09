@@ -1,4 +1,5 @@
-# My BeCode
+# my.becode.org : absences
+
 [[English version](procedure-mybecode-eng.md)]    
 Comment utiliser la plateforme my.becode.org pour les absences/retards/départs anticipés/événements ?
 
@@ -17,12 +18,12 @@ Comment utiliser la plateforme my.becode.org pour les absences/retards/départs 
     - [Long-term absence](#long-term-absence)
     - [Early departure and late arrival for a BeCode event](#early-departure-and-late-arrival-for-a-becode-event)
     - [Long-term absence from a BeCode event](#long-term-absence-from-a-becode-event)
-    
+
 ## Procédure
-### Absence non prévue avec justificatif 
+### Absence non prévue avec justificatif
 Exemple : maladie
 - va dans le menu
-- va dans « Absence planner » 
+- va dans « Absence planner »
 - coche simplement « Long-term absence »
 - note la ou les raisons de ton absence
 
@@ -31,19 +32,19 @@ Va dans « Absence notifier », retrouve l'absence à justifier, envoie le docum
 
 **Toute absence du local doit être prévenue via le formulaire sous peine d’absence injustifiée.**
 
-### Retard ou départ prévu avec justificatif 
+### Retard ou départ prévu avec justificatif
 Exemple : rendez-vous administratif
 - va dans le menu
-- va dans « Absence planner » 
+- va dans « Absence planner »
 - coche « Early departure and late arrival »
-- note la ou les raisons de ton retard ou de ton départ anticipé. 
+- note la ou les raisons de ton retard ou de ton départ anticipé.
 
 ℹ️ Un retard ou un départ anticipé sans justificatif équivaut à une demi-journée d’absence injustifiée. Il est possible d’uploader une photo (ou un PDF) de ton justificatif par après.
 
-### Retard non prévu mais justifiable 
+### Retard non prévu mais justifiable
 Exemple : retard SNCB
 - va dans le menu
-- va dans « Absence planner » 
+- va dans « Absence planner »
 - coche « Early departure and late arrival »
 - note la ou les raisons de ton retard
 - envoie le justificatif de retard de train que tu trouveras sur le site de la SNCB.
@@ -60,13 +61,13 @@ Exemple : retard SNCB
 
 ## Documents
 Ce sont les documents officiels que vous devez introduire dans my.becode.org dans le cas de participation à des événements, rendez-vous de stage, grève,... Vous devez les faire signer par vos coachs AVANT de les envoyer dans my.becode.org sinon, ils ne seront pas considérés comme valides.
-### Attestation de participation à un évènement 
+### Attestation de participation à un évènement
 📜 [[doc](https://drive.google.com/open?id=1eYnm-aO4o7ABMrj3Ra0kzA1eYd_apoEFoFp28AFKCEo)] - [[doc version FOREM](https://docs.google.com/document/d/1eYnm-aO4o7ABMrj3Ra0kzA1eYd_apoEFoFp28AFKCEo/edit?usp=sharing)]
 A remplir en cas de hackathon, CoderDojo, workshop externe, Jobday,... (tous les évènements BeCode qui se passe en dehors de la classe).
-### Demande d'absence exceptionnelle 
+### Demande d'absence exceptionnelle
 📜 [[doc](https://drive.google.com/open?id=10f1aYfy1lbytk8Dg8ll3YZOTvPRg0FpGrbn9FnuQHE8)]
 A remplir en cas d'entretien de stage, de journée pédagogique (la journée durant laquelle les coachs ne sont pas là).
-### Déclaration sur l'honneur 
+### Déclaration sur l'honneur
 📜 [[doc](https://drive.google.com/open?id=0B1mdnkbeKh9FbFVVTTlxRGVlWm5fNDN3U2Y3RXBzYmE1cmhR)]
 A remplir en cas de grève des transports publics.
 

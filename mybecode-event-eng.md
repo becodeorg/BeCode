@@ -1,4 +1,5 @@
-# How and why encode your participation to event inside my.becode.org
+# my.becode.org: events
+How and why encode your participation to event inside my.becode.org
 
 Hi folks!
 We are proud to announce that you can now have access to the [**events section**](https://my.becode.org/eventusers) on [my.becode.org](https://my.becode.org/eventusers).    

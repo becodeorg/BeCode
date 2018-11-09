@@ -1,4 +1,5 @@
-# Comment et pourquoi encoder ma participation aux événements dans my.becode.org
+# my.becode.org : les évènements
+Comment et pourquoi encoder ma participation aux événements dans my.becode.org
 
 Hi folks!
 Vous avez accès à une nouvelle section appelée [**events section**](https://my.becode.org/eventusers) sur [my.becode.org](https://my.becode.org/eventusers).    
