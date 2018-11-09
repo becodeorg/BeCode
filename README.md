@@ -10,7 +10,7 @@
 | English    |     Français     |        Nederlands |
 | :------------ | :-------------: | -------------: |
 |[For delays and **absences**](mybecode-absence-eng.md)|[Comment utiliser my.becode.org pour les **absences** et retards](mybecode-absence-fr.md)|to come up|
-|How to claim your skill **badges**|Comment demander vos **badges** de compétences|to come up|
+|How to claim your skill **badges**|Comment [demander vos **badges** de compétences](mybecode-badges-fr.md)|to come up|
 |To have a professionnal profile on **Talent**|Avoir mon profil professionnel sur **Talent**| to come up|
 |To [notify I participate or animate an **event**](mybecode-event-eng.md)|Pour [mentionner dans mon parcours que j'ai participé ou animé un **événement**](mybecode-event-eng.md)| to come up|
 |To [searching for a **job/internship**](mybecode-jobs-fr.md)|Rechercher un **job/stage**|to come up|
