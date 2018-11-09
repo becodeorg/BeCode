@@ -33,6 +33,7 @@ You feel inside you the motivation to become a project manager, a communication 
 | English    |     Français     |        Nederlands |
 | :------------ | :-------------: | -------------: |
 | [Wanna be an official writer on the blog?](BlogBecode-eng.md) |[Comment participer au blog de BeCode](BlogBeCode-fr.md)|to come|
+| Wanna participate in a client project? |Tu souhaites participer à un projet client ?|to come up|
 | Wanna manage BeCode's client projects? |Tu veux gérer les projets clients de BeCode ?|to come up|
 | Wanna be in charge of the monthly newsletter? |Tu veux gérer la newsletter ?|to come up|
 
