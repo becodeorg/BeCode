@@ -3,7 +3,7 @@
 ### 1st documents to read
 | English    |     Français     |        Nederlands |
 | :------------ | :-------------: | -------------: |
-|[Educational Contract](educationalcontract)|[Contrat Pédagogique](./contratpedagogique.md)     |    [Pedagogisch Contract](./pedagogischcontract.md)|
+|[Educational Contract](educationalcontract.md)|[Contrat Pédagogique](./contratpedagogique.md)     |    [Pedagogisch Contract](./pedagogischcontract.md)|
 | [Utilisation of Ryver](ryver-eng.md) (Translate to finish) |     [Utilisation de Ryver](ryver-fr.md)     |     to come up|
 
 ### How to use my.becode.org
