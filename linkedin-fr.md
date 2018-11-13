@@ -2,6 +2,10 @@
 
 LinkedIn est un réseau à vocation essentiellement professionnelle. Le concept le plus puissant derrière LinkedIn est sa capacité à trouver les bonnes personnes et les relations que vous partagez avec elles. Commencez à créez votre propre réseau et rajoutez également la team BeCode :) . 
 
+## Trucs et astuces pour avoir un profil LinkedIn de qualité
+
+[Google slide](https://docs.google.com/presentation/d/13Iv4DULRRGYvK84ctEKBtQAVpETP-_3ImYOX9xyUOEY/edit?usp=sharing)
+
 ## Liste des liens LinkedIn du personnel de BeCode
 
 - Karen : https://www.linkedin.com/in/karenboers/
