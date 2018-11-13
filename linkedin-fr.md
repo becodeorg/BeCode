@@ -1,6 +1,6 @@
 # LinkedIn
 
-LinkedIn est un réseau à vocation essentiellement professionnelle. Le concept le plus puissant derrière LinkedIn est sa capacité à trouver les bonnes personnes et les relations que vous partagez avec elles. Commencez à créez votre propre réseau et rajoutez également la team BeCode :) . 
+LinkedIn est un réseau à vocation essentiellement professionnelle. Le concept le plus puissant derrière LinkedIn est sa capacité à trouver les bonnes personnes et les relations que vous partagez avec elles. Commencez à créer votre propre réseau et rajoutez également la team BeCode :) . 
 
 ## Trucs et astuces pour avoir un profil LinkedIn de qualité
 
