@@ -12,7 +12,7 @@ LinkedIn est un réseau à vocation essentiellement professionnelle. Le concept 
 - Emily : https://www.linkedin.com/in/emilymrghl/
 - Alexandre : https://www.linkedin.com/in/pixeline/
 - Bertrand : https://www.linkedin.com/in/bertrand-marlair/
-- Leny https://www.linkedin.com/in/padelnatte/
+- Leny : https://www.linkedin.com/in/padelnatte/
 - Kevin : https://www.linkedin.com/in/kevin-flabat-420a74ba/ 
 - Eric : https://www.linkedin.com/in/eric-m-salla/
 - Valerian : https://www.linkedin.com/in/valerian-thomas/
@@ -25,7 +25,7 @@ LinkedIn est un réseau à vocation essentiellement professionnelle. Le concept 
 - Thijs : https://www.linkedin.com/in/thijs-lambert/
 - Lesley : https://www.linkedin.com/in/lesleyforn/
 - Juan : https://www.linkedin.com/in/juan-cely-ramos-88353a134/
-- Miriam azzouz : https://www.linkedin.com/in/miriam-azzouz-ba1607116/
+- Miriam Azzouz : https://www.linkedin.com/in/miriam-azzouz-ba1607116/
 
 ## Sources
 
