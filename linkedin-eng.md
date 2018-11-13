@@ -4,9 +4,7 @@ LinkedIn is a network with a mainly professional vocation. The most powerful con
 
 ## Tips and tricks to get a quality LinkedIn profile
 
-[![](img/LinkedIn-screenshot.gif)]((https://docs.google.com/presentation/d/13Iv4DULRRGYvK84ctEKBtQAVpETP-_3ImYOX9xyUOEY/edit?usp=sharing))
-
-[Google slide](https://docs.google.com/presentation/d/13Iv4DULRRGYvK84ctEKBtQAVpETP-_3ImYOX9xyUOEY/edit?usp=sharing)
+[![linkedin](https://i.gyazo.com/43784944819d56af818c2d756616cb02.png)](https://docs.google.com/presentation/d/1_I4C-6JJfx8g5YneDU04SxBdJnECYEPaxMrAiw8sSZQ/edit?usp=sharing)
 
 ## List of LinkedIn links of BeCode staff
 
