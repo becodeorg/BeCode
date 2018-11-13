@@ -24,7 +24,7 @@ LinkedIn est un réseau à vocation essentiellement professionnelle. Le concept 
 - [Valerian](https://www.linkedin.com/in/valerian-thomas/)
 - [Ludovic](https://www.linkedin.com/in/ludovic-patho-dev/)
 - [Teddy](https://www.linkedin.com/in/teddykishi/)
-- [Thom](https://www.linkedin.com/in/tomcrohin/)
+- [Tom](https://www.linkedin.com/in/tomcrohin/)
 - [Ayaan](https://www.linkedin.com/in/ayaan-jama/)
 - [Marie](https://www.linkedin.com/in/marie-thielens/)
 - [Arnaud](https://www.linkedin.com/in/arnaud-duchemin-a28068151/)
