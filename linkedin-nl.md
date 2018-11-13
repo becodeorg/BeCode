@@ -4,7 +4,7 @@ LinkedIn is een netwerk met een hoofdzakelijk professionele roeping. Het meest k
 
 ## Tips en tricks om een kwalitatief hoogstaand LinkedIn profiel te hebben
 
-[![linkedin](https://i.gyazo.com/601c2b780c8cfeee2e4a98c12e6eda8f.png)]([Google slide](https://docs.google.com/presentation/d/1O6qFjlM5uJ7tZPYD1i5-zF1lZQoHJK9dBpojTJqIYjU/edit?usp=sharing))
+[![linkedin](https://i.gyazo.com/601c2b780c8cfeee2e4a98c12e6eda8f.png)](https://docs.google.com/presentation/d/1O6qFjlM5uJ7tZPYD1i5-zF1lZQoHJK9dBpojTJqIYjU/edit?usp=sharing)
 
 ## Liste des liens LinkedIn du personnel de BeCode
 
@@ -22,7 +22,7 @@ LinkedIn is een netwerk met een hoofdzakelijk professionele roeping. Het meest k
 - [Valerian](https://www.linkedin.com/in/valerian-thomas/)
 - [Ludovic](https://www.linkedin.com/in/ludovic-patho-dev/)
 - [Teddy](https://www.linkedin.com/in/teddykishi/)
-- [Thom](https://www.linkedin.com/in/tomcrohin/)
+- [Tom](https://www.linkedin.com/in/tomcrohin/)
 - [Ayaan](https://www.linkedin.com/in/ayaan-jama/)
 - [Marie](https://www.linkedin.com/in/marie-thielens/)
 - [Arnaud](https://www.linkedin.com/in/arnaud-duchemin-a28068151/)
