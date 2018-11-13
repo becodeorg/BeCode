@@ -1,14 +1,12 @@
 # LinkedIn
 
-LinkedIn is een netwerk met een hoofdzakelijk professionele roeping. Het meest krachtige concept achter LinkedIn is het vermogen om de juiste mensen te vinden en de relaties die je met hen deelt. Begin met het creëren van je eigen netwerk en voeg ook het BeCode team toe :) .
+LinkedIn is een netwerk met een hoofdzakelijk professionele roeping. Het meest krachtige concept achter LinkedIn is het vermogen om de juiste mensen te vinden en de relaties die je met hen deelt. Begin met het creëren van je eigen netwerk en voeg ook het BeCode team toe :) . 
 
-## Tips en tricks om een kwalitatief hoogstaand LinkedIn profiel te maken
+## Tips en tricks om een kwalitatief hoogstaand LinkedIn profiel te hebben
 
-[![](img/LinkedIn-screenshot.gif)]((https://docs.google.com/presentation/d/13Iv4DULRRGYvK84ctEKBtQAVpETP-_3ImYOX9xyUOEY/edit?usp=sharing))
+[![linkedin](https://i.gyazo.com/601c2b780c8cfeee2e4a98c12e6eda8f.png)]([Google slide](https://docs.google.com/presentation/d/1O6qFjlM5uJ7tZPYD1i5-zF1lZQoHJK9dBpojTJqIYjU/edit?usp=sharing))
 
-[Google slide](https://docs.google.com/presentation/d/13Iv4DULRRGYvK84ctEKBtQAVpETP-_3ImYOX9xyUOEY/edit?usp=sharing)
-
-## Lijst van LinkedIn-links van BeCode-medewerkers
+## Liste des liens LinkedIn du personnel de BeCode
 
 - [Karen](https://www.linkedin.com/in/karenboers/)
 - [Sarah](https://www.linkedin.com/in/sarah-unger-6a33583/)
