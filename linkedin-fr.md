@@ -4,6 +4,7 @@ LinkedIn est un réseau à vocation essentiellement professionnelle. Le concept 
 
 ## Trucs et astuces pour avoir un profil LinkedIn de qualité
 
+![screenshot des slides LinkedIn](img/LinkedIn-screenshot.gif)
 [Google slide](https://docs.google.com/presentation/d/13Iv4DULRRGYvK84ctEKBtQAVpETP-_3ImYOX9xyUOEY/edit?usp=sharing)
 
 ## Liste des liens LinkedIn du personnel de BeCode
