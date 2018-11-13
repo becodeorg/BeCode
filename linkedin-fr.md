@@ -30,7 +30,6 @@ LinkedIn est un réseau à vocation essentiellement professionnelle. Le concept 
 - Arnaud : https://www.linkedin.com/in/arnaud-duchemin-a28068151/ 
 - Thijs : https://www.linkedin.com/in/thijs-lambert/
 - Lesley : https://www.linkedin.com/in/lesleyforn/
-- Juan : https://www.linkedin.com/in/juan-cely-ramos-88353a134/
 - Miriam Azzouz : https://www.linkedin.com/in/miriam-azzouz-ba1607116/
 
 ## Sources
