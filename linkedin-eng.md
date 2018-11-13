@@ -1,14 +1,14 @@
 # LinkedIn
 
-LinkedIn est un réseau à vocation essentiellement professionnelle. Le concept le plus puissant derrière LinkedIn est sa capacité à trouver les bonnes personnes et les relations que vous partagez avec elles. Commencez à créer votre propre réseau et rajoutez également la team BeCode :) .
+LinkedIn is a network with a mainly professional vocation. The most powerful concept behind LinkedIn is the ability to find the right people and the relationships you share with them. Start by creating your own network and also add the BeCode team :) .
 
-## Trucs et astuces pour avoir un profil LinkedIn de qualité
+## Tips and tricks to get a quality LinkedIn profile
 
 [![](img/LinkedIn-screenshot.gif)]((https://docs.google.com/presentation/d/13Iv4DULRRGYvK84ctEKBtQAVpETP-_3ImYOX9xyUOEY/edit?usp=sharing))
 
 [Google slide](https://docs.google.com/presentation/d/13Iv4DULRRGYvK84ctEKBtQAVpETP-_3ImYOX9xyUOEY/edit?usp=sharing)
 
-## Liste des liens LinkedIn du personnel de BeCode
+## List of LinkedIn links of BeCode staff
 
 - [Karen](https://www.linkedin.com/in/karenboers/)
 - [Sarah](https://www.linkedin.com/in/sarah-unger-6a33583/)
@@ -35,6 +35,6 @@ LinkedIn est un réseau à vocation essentiellement professionnelle. Le concept 
 
 ## Sources
 
-- 15 Bonnes pratiques : https://www.matthieu-tranvan.fr/reseaux-sociaux/profil-linkedin.html
-- Contacts LinkedIn : https://www.linkedin.com/help/linkedin/answer/1436/descriptif-de-votre-reseau-et-de-vos-niveaux-de-contacts?lang=fr
-- Comment tirer profit de LinkedIn : http://www.ma-editions.com/contenu/4032/extraits/Linkedin_Extrait.pdf
+- 15 good practices (FR) : https://www.matthieu-tranvan.fr/reseaux-sociaux/profil-linkedin.html
+- LinkedIn network : https://www.linkedin.com/help/linkedin/answer/1436/descriptif-de-votre-reseau-et-de-vos-niveaux-de-contacts?lang=en
+- Get the most out of LinkedIn (FR) : http://www.ma-editions.com/contenu/4032/extraits/Linkedin_Extrait.pdf

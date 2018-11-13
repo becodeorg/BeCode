@@ -1,14 +1,14 @@
 # LinkedIn
 
-LinkedIn est un réseau à vocation essentiellement professionnelle. Le concept le plus puissant derrière LinkedIn est sa capacité à trouver les bonnes personnes et les relations que vous partagez avec elles. Commencez à créer votre propre réseau et rajoutez également la team BeCode :) .
+LinkedIn is een netwerk met een hoofdzakelijk professionele roeping. Het meest krachtige concept achter LinkedIn is het vermogen om de juiste mensen te vinden en de relaties die je met hen deelt. Begin met het creëren van je eigen netwerk en voeg ook het BeCode team toe :) .
 
-## Trucs et astuces pour avoir un profil LinkedIn de qualité
+## Tips en tricks om een kwalitatief hoogstaand LinkedIn profiel te maken
 
 [![](img/LinkedIn-screenshot.gif)]((https://docs.google.com/presentation/d/13Iv4DULRRGYvK84ctEKBtQAVpETP-_3ImYOX9xyUOEY/edit?usp=sharing))
 
 [Google slide](https://docs.google.com/presentation/d/13Iv4DULRRGYvK84ctEKBtQAVpETP-_3ImYOX9xyUOEY/edit?usp=sharing)
 
-## Liste des liens LinkedIn du personnel de BeCode
+## Lijst van LinkedIn-links van BeCode-medewerkers
 
 - [Karen](https://www.linkedin.com/in/karenboers/)
 - [Sarah](https://www.linkedin.com/in/sarah-unger-6a33583/)
@@ -33,8 +33,8 @@ LinkedIn est un réseau à vocation essentiellement professionnelle. Le concept 
 - [Juan](https://www.linkedin.com/in/juan-cely-ramos-88353a134/)
 - [Miriam Azzouz](https://www.linkedin.com/in/miriam-azzouz-ba1607116/)
 
-## Sources
+## Bronnen
 
-- 15 Bonnes pratiques : https://www.matthieu-tranvan.fr/reseaux-sociaux/profil-linkedin.html
-- Contacts LinkedIn : https://www.linkedin.com/help/linkedin/answer/1436/descriptif-de-votre-reseau-et-de-vos-niveaux-de-contacts?lang=fr
-- Comment tirer profit de LinkedIn : http://www.ma-editions.com/contenu/4032/extraits/Linkedin_Extrait.pdf
+- 15 optimale werkwijzes (FR) : https://www.matthieu-tranvan.fr/reseaux-sociaux/profil-linkedin.html
+- LinkedIn network : https://www.linkedin.com/help/linkedin/answer/1436/descriptif-de-votre-reseau-et-de-vos-niveaux-de-contacts?lang=en
+- How to get the most out of LinkedIn (FR) : http://www.ma-editions.com/contenu/4032/extraits/Linkedin_Extrait.pdf
