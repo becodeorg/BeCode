@@ -13,7 +13,7 @@
 |How to claim your skill **badges**|Comment [demander vos **badges** de compétences](mybecode-badges-fr.md)|to come up|
 |To have a professionnal profile on **Talent**|Avoir mon profil professionnel sur **Talent**| to come up|
 |To [notify I participate or animate an **event**](mybecode-event-eng.md)|Pour [mentionner dans mon parcours que j'ai participé ou animé un **événement**](mybecode-event-eng.md)| to come up|
-|To [searching for a **job/internship**](mybecode-jobs-fr.md)|Rechercher un **job/stage**|to come up|
+|To searching for a **job/internship**|[Rechercher un **job/stage**](mybecode-jobs-fr.md)|to come up|
 
 **Talent** is the professionnal plateform made by BeCode that connect Juniors and employers (or clients).    
 *Talent is currently in development. Be patient, it will be awesome!*
@@ -40,6 +40,7 @@ You feel inside you the motivation to become a project manager, a communication 
 ### How to prepare yourself professionally
 | English    |     Français     |        Nederlands |
 | :------------ | :-------------: | -------------: |
+|[Tips and tricks to get a quality LinkedIn profile](linkedin-eng.md)|[Ressources pour avoir un profil LinkedIn de qualité](linkedin-fr.md)|[Tips en tricks om een kwalitatief hoogstaand LinkedIn profiel te hebben](linkedin-nl.md)|
 |to come up|[Insérer les badges badgr.io sur son profil LinkedIn](badges-de-competences.md)|to come up|
 |to come up|[L'après BeCode...](afterbecode.md) : les formations, les stages, les emplois, les mesures d'aide à l'embauche,...|to come up|
 |to come up| [Préparer sa candidature pour un stage/job](preparersacandidature.md) |to come up|
