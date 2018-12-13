@@ -6,7 +6,7 @@ LinkedIn is een netwerk met een hoofdzakelijk professionele roeping. Het meest k
 
 [![linkedin](https://i.gyazo.com/601c2b780c8cfeee2e4a98c12e6eda8f.png)](https://docs.google.com/presentation/d/1O6qFjlM5uJ7tZPYD1i5-zF1lZQoHJK9dBpojTJqIYjU/edit?usp=sharing)
 
-## Liste des liens LinkedIn du personnel de BeCode
+## Lijst van LinkedIn links van BeCode medewerkers
 
 - [Karen](https://www.linkedin.com/in/karenboers/)
 - [Sarah](https://www.linkedin.com/in/sarah-unger-6a33583/)
