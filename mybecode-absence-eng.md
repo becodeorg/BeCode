@@ -1,6 +1,6 @@
 # my.becode.org: absences
 
-[[Version francophone](procedure-mybecode.md)]    
+[[Version francophone](procedure-mybecode.md)]
 How to use my.becode.org for absences/delays/early departures/events?
 
 - Process
@@ -26,13 +26,15 @@ Example : sickness
 - check « Long-term absence »
 - explain the reason of your absence
 
+![](img/mybecode-longtermabsence.gif)
+
 ℹ️ It is possible to **upload your proof later** but do it as soon as possible or it will be considered injustified.
-Go to « Absence notifier », retrouve l'absence à justifier, envoie le document qu'il manquait.
+Go to « Absence notifier », find the absence to justify, send the document that was missing.
 
 **Any absence must be notified via the form or it will be considered as an unjustified absence.**
 
 ### Delay planned with proof
-Exemple : rendez-vous administratif
+Example : administrative appointment
 - go to « Absence planner »
 - check « Early departure and late arrival »
 - explain the reason of your early departure or your late arrival
@@ -45,6 +47,10 @@ Example : retard SNCB
 - check « Early departure and late arrival »
 - explain the reason
 - send the proof of train delay that you will find on the SNCB website.
+
+![](img/mybecode-earlydepartrure.gif)
+
+![](img/mybecode-sendajustifilater.gif)
 
 ### Absence planned
 - check « Long-term absence » and explain the reason why you're not there
