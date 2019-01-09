@@ -56,3 +56,4 @@ Il y a pléthor de modèles de CV gratuits disponibles pour Google Doc.
 Comme par exemple Emakina, Grey, Ogilvy, Havas, Publicis,...
 - [Media Marketing](https://www.mm.be/) et notamment son [Agency Selector](https://www.mm.be/agency-selector-fr)
 - [Digimedia.be](https://digimedia.be/) et notamment sa section [Who's who](https://digimedia.be/directory-digital-fr.html)
+- [Extension Chrome Language Tool](https://chrome.google.com/webstore/detail/grammar-and-spell-checker/oldceeleldhonbafppcapldpdifcinji?hl=fr) - pour avoir une aide pour corriger vos fautes de grammaire, conjugaison et de ponctuation.
