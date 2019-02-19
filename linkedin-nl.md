@@ -8,30 +8,43 @@ LinkedIn is een netwerk met een hoofdzakelijk professionele roeping. Het meest k
 
 ## Lijst van LinkedIn links van BeCode medewerkers
 
+### Office Staff
 - [Karen](https://www.linkedin.com/in/karenboers/)
 - [Sarah](https://www.linkedin.com/in/sarah-unger-6a33583/)
-- [Cedric](https://www.linkedin.com/in/cedricswaelens/)
-- [Ayoub](https://www.linkedin.com/in/ayoub-mohyi/)
-- [Anthony](https://www.linkedin.com/in/anthony-lim%C3%A8re/)
-- [Emily](https://www.linkedin.com/in/emilymrghl/)
-- [Alexandre](https://www.linkedin.com/in/pixeline/)
-- [Bertrand](https://www.linkedin.com/in/bertrand-marlair/)
-- [Leny](https://www.linkedin.com/in/padelnatte/)
-- [Kevin](https://www.linkedin.com/in/kevin-flabat-420a74ba/)
+- [Miriam Azzouz](https://www.linkedin.com/in/miriam-azzouz-ba1607116/)
+
+### Mediation & Employment
 - [Eric](https://www.linkedin.com/in/eric-m-salla/)
-- [Valerian](https://www.linkedin.com/in/valerian-thomas/)
-- [Ludovic](https://www.linkedin.com/in/ludovic-patho-dev/)
-- [Teddy](https://www.linkedin.com/in/teddykishi/)
+- [Ayoub](https://www.linkedin.com/in/ayoub-mohyi/)
+
+
+### Communication Team
 - [Tom](https://www.linkedin.com/in/tomcrohin/)
 - [Ayaan](https://www.linkedin.com/in/ayaan-jama/)
+- [David](https://www.linkedin.com/in/david-c-a95547b8/)
+- [Abel](https://www.linkedin.com/in/magolu-abel/)
+
+## Coaches
+- [Alexandre](https://www.linkedin.com/in/pixeline/)
+- [Emily](https://www.linkedin.com/in/emilymrghl/)
+- [Ludovic](https://www.linkedin.com/in/ludovic-patho-dev/)
+- [Bertrand](https://www.linkedin.com/in/bertrand-marlair/)
+- [Anthony](https://www.linkedin.com/in/anthony-lim%C3%A8re/)
+- [Valerian](https://www.linkedin.com/in/valerian-thomas/)
+- [Kevin](https://www.linkedin.com/in/kevin-flabat-420a74ba/)
+- [Lesley](https://www.linkedin.com/in/lesleyforn/)
+- [Leny](https://www.linkedin.com/in/padelnatte/)
 - [Marie](https://www.linkedin.com/in/marie-thielens/)
 - [Arnaud](https://www.linkedin.com/in/arnaud-duchemin-a28068151/)
 - [Thijs](https://www.linkedin.com/in/thijs-lambert/)
-- [Lesley](https://www.linkedin.com/in/lesleyforn/)
-- [Juan](https://www.linkedin.com/in/juan-cely-ramos-88353a134/)
-- [Miriam Azzouz](https://www.linkedin.com/in/miriam-azzouz-ba1607116/)
-- [Nicolas](https://www.linkedin.com/in/nicolasvanhoren/)
-- [Jules](https://www.linkedin.com/in/nicolas-jamar-26123814b/)
+- [Nicolas V.](https://www.linkedin.com/in/nicolasvanhoren/)
+- [Nicolas J.](https://www.linkedin.com/in/nicolas-jamar-26123814b/)
+- [David](https://www.linkedin.com/in/david-thewissen/)
+- [Jan](https://www.linkedin.com/in/jan-van-den-enden-410b7820/)
+- [Selene](https://www.linkedin.com/in/selene-nijst-112353173/)
+- [Raf](https://www.linkedin.com/in/codebull/)
+- [Filip](https://www.linkedin.com/in/filip-smets-870bb994/)
+- [Aravind](https://www.linkedin.com/in/aravind-chandrashekar-47186316b/)
 
 ## Bronnen
 
