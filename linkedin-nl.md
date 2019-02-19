@@ -35,6 +35,6 @@ LinkedIn is een netwerk met een hoofdzakelijk professionele roeping. Het meest k
 
 ## Bronnen
 
-- 15 optimale werkwijzes (FR) : https://www.matthieu-tranvan.fr/reseaux-sociaux/profil-linkedin.html
-- LinkedIn network : https://www.linkedin.com/help/linkedin/answer/1436/descriptif-de-votre-reseau-et-de-vos-niveaux-de-contacts?lang=en
-- How to get the most out of LinkedIn (FR) : http://www.ma-editions.com/contenu/4032/extraits/Linkedin_Extrait.pdf
+- [15 optimale werkwijzes (FR)](https://www.matthieu-tranvan.fr/reseaux-sociaux/profil-linkedin.html)
+- [LinkedIn network](https://www.linkedin.com/help/linkedin/answer/1436/descriptif-de-votre-reseau-et-de-vos-niveaux-de-contacts?lang=en)
+- [How to get the most out of LinkedIn (FR)](http://www.ma-editions.com/contenu/4032/extraits/Linkedin_Extrait.pdf)
