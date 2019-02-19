@@ -30,6 +30,8 @@ LinkedIn is a network with a mainly professional vocation. The most powerful con
 - [Lesley](https://www.linkedin.com/in/lesleyforn/)
 - [Juan](https://www.linkedin.com/in/juan-cely-ramos-88353a134/)
 - [Miriam Azzouz](https://www.linkedin.com/in/miriam-azzouz-ba1607116/)
+- [Nicolas](https://www.linkedin.com/in/nicolasvanhoren/)
+- [Jules](https://www.linkedin.com/in/nicolas-jamar-26123814b/)
 
 ## Sources
 
