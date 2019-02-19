@@ -32,6 +32,8 @@ LinkedIn est un réseau à vocation essentiellement professionnelle. Le concept 
 - [Lesley](https://www.linkedin.com/in/lesleyforn/)
 - [Juan](https://www.linkedin.com/in/juan-cely-ramos-88353a134/)
 - [Miriam Azzouz](https://www.linkedin.com/in/miriam-azzouz-ba1607116/)
+- [Nicolas](https://www.linkedin.com/in/nicolasvanhoren/)
+- [Jules](https://www.linkedin.com/in/nicolas-jamar-26123814b/)
 
 ## Sources
 
