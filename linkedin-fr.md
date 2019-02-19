@@ -37,6 +37,6 @@ LinkedIn est un réseau à vocation essentiellement professionnelle. Le concept 
 
 ## Sources
 
-- 15 Bonnes pratiques : https://www.matthieu-tranvan.fr/reseaux-sociaux/profil-linkedin.html
-- Contacts LinkedIn : https://www.linkedin.com/help/linkedin/answer/1436/descriptif-de-votre-reseau-et-de-vos-niveaux-de-contacts?lang=fr
-- Comment tirer profit de LinkedIn : http://www.ma-editions.com/contenu/4032/extraits/Linkedin_Extrait.pdf
+- [15 Bonnes pratiques](https://www.matthieu-tranvan.fr/reseaux-sociaux/profil-linkedin.html)
+- [Contacts LinkedIn](https://www.linkedin.com/help/linkedin/answer/1436/descriptif-de-votre-reseau-et-de-vos-niveaux-de-contacts?lang=fr)
+- [Comment tirer profit de LinkedIn](http://www.ma-editions.com/contenu/4032/extraits/Linkedin_Extrait.pdf)
