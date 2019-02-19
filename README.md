@@ -1,10 +1,10 @@
 # Welcome to BeCode - Bienvenue chez BeCode - Welkom bij BeCode
 
 ### 1st documents to read
-| English    |     Français     |        Nederlands |
+| English | Français | Nederlands |
 | :------------ | :-------------: | -------------: |
-|[Educational Contract](educationalcontract.md)|[Contrat Pédagogique](./contratpedagogique.md)     |    [Pedagogisch Contract](./pedagogischcontract.md)|
-| [Utilisation of Ryver](ryver-eng.md) (Translate to finish) |     [Utilisation de Ryver](ryver-fr.md)     |     to come up|
+| [Educational Contract](educationalcontract.md) | [Contrat Pédagogique](./contratpedagogique.md) | [Pedagogisch Contract](./pedagogischcontract.md) |
+| [Utilisation of Ryver](ryver-eng.md) (Translate to finish) | [Utilisation de Ryver](ryver-fr.md) | to come up |
 
 ### How to use my.becode.org
 | English    |     Français     |        Nederlands |
