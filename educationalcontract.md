@@ -8,7 +8,7 @@ This document explains the rules to be respected by the learner at BeCode, as we
 
 - [Internal regulations](#internal-regulations)
 	- [Collective management of the local space](#collective-management-of-the-local-space)
-	- [Respecting the hours, being late or absent](#respect-des-horaires-retards-et-absences)
+	- [Respect of schedules: what about delays and absences?](#respect-of-schedules--what-about-delays-and-absences)
 		- [Sanctions](#sanctions)
 - [Respecting the hardware](#respecting-the-hardware)
 	- [How to deal with the outside](#how-to-deal-with-the-outside)
