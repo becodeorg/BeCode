@@ -12,7 +12,7 @@
 | English    |     Français     |        Nederlands |
 | :------------ | :-------------: | -------------: |
 |[For delays and **absences**](mybecode-absence-eng.md)|[Comment utiliser my.becode.org pour les **absences** et retards](mybecode-absence-fr.md)|to come up|
-|How to claim your skill **badges**|Comment [demander vos **badges** de compétences](mybecode-badges-fr.md)|to come up|
+|[How to claim your skill **badges**](mybecode-badges-eng.md)|Comment [demander vos **badges** de compétences](mybecode-badges-fr.md)|to come up|
 |To have a professionnal profile on **Talent**|Avoir mon profil professionnel sur **Talent**| to come up|
 |To [notify I participate or animate an **event**](mybecode-event-eng.md)|Pour [mentionner dans mon parcours que j'ai participé ou animé un **événement**](mybecode-event-eng.md)| to come up|
 |To searching for a **job/internship**|[Rechercher un **job/stage**](mybecode-jobs-fr.md)|to come up|
@@ -45,9 +45,9 @@ You feel inside you the motivation to become a project manager, a communication 
 | English    |     Français     |        Nederlands |
 | :------------ | :-------------: | -------------: |
 |[Tips and tricks to get a quality LinkedIn profile](linkedin-eng.md)|[Ressources pour avoir un profil LinkedIn de qualité](linkedin-fr.md)|[Tips en tricks om een kwalitatief hoogstaand LinkedIn profiel te hebben](linkedin-nl.md)|
-|to come up|[Insérer les badges badgr.io sur son profil LinkedIn](badges-de-competences.md)|to come up|
+|[How to insert badges on LinkedIn profile](certified-skills-eng.md)|[Insérer les badges badgr.io sur son profil LinkedIn](certified-skills-fr.md)|to come up|
 |to come up|[L'après BeCode...](afterbecode.md) : les formations, les stages, les emplois, les mesures d'aide à l'embauche,...|to come up|
-|to come up| [Préparer sa candidature pour un stage/job](preparersacandidature.md) |to come up|
+|to come up|[Préparer sa candidature pour un stage/job](preparersacandidature.md) |to come up|
 |to come up|[Discussion sur les tarifs/salaires](https://gist.github.com/pixeline/aaba236316e49084700b6add496c298c)| to come up|
 
 ### BONUS

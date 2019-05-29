@@ -6,7 +6,7 @@ Les badges de compétences décernés par BeCode peuvent être obtenus de plusie
 
 Mais avant toute chose, sachez qu'ils attestent qu'un organisme reconnu par Bruxelles Formation (BeCode dans votre cas) atteste que vous possédez des compétences techniques ou autres.    
 
-Vous pouvez [partager vos badges de compétence sur votre profil LinkedIn](badges-de-competences.md) et également sur vos sites personnels (portfolio).    
+Vous pouvez [partager vos badges de compétence sur votre profil LinkedIn](certified-skills-fr.md) et également sur vos sites personnels (portfolio).    
 
 Nous les utilisons également pour la plateforme Talents (à venir) qui permettra la mise en relation des Juniors de BeCode avec des employeurs ou des clients.    
 Egalement, ces badges figureront sur les rapports d'évaluation qui attestent que durant votre parcours, vous avez acquis différentes compétences.    
