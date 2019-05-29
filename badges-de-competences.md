@@ -1,7 +1,7 @@
 # Les badges badgr.io
 
 ## Réclamer des badges
-:arrow_right: https://inside.becode.org/badges/
+:arrow_right: Ca arrive.
 
 ## Intégrer les badges sur LinkedIn
 
