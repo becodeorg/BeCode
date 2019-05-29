@@ -1,4 +1,10 @@
-# Welcome to BeCode - Bienvenue chez BeCode - Welkom bij BeCode
+# BeCode
+
+> ℹ️ Common Resources
+
+* * *
+
+## Welcome to BeCode - Bienvenue chez BeCode - Welkom bij BeCode
 
 ### 1st documents to read
 
