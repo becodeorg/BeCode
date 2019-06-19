@@ -14,10 +14,12 @@ LinkedIn est un réseau à vocation essentiellement professionnelle. Le concept 
 - [Karen](https://www.linkedin.com/in/karenboers/)
 - [Sarah](https://www.linkedin.com/in/sarah-unger-6a33583/)
 - [Miriam Azzouz](https://www.linkedin.com/in/miriam-azzouz-ba1607116/)
+- [An](https://www.linkedin.com/in/ancattie/)
 
 ### Mediation & Employment
 - [Eric](https://www.linkedin.com/in/eric-m-salla/)
 - [Ayoub](https://www.linkedin.com/in/ayoub-mohyi/)
+- [Sameer](https://www.linkedin.com/in/sameersrivastva/)
 
 
 ### Communication Team
@@ -47,6 +49,7 @@ LinkedIn est un réseau à vocation essentiellement professionnelle. Le concept 
 - [Raf](https://www.linkedin.com/in/codebull/)
 - [Filip](https://www.linkedin.com/in/filip-smets-870bb994/)
 - [Aravind](https://www.linkedin.com/in/aravind-chandrashekar-47186316b/)
+- [Antony](https://www.linkedin.com/in/antony-rizzitelli-83a307145/)
 
 ## Sources
 
