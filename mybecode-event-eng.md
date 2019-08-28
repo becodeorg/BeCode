@@ -10,10 +10,16 @@ To indicate that you participated in events like hackathons, code initiation for
 
 Make sure to also mention each Watch and/or workshop you animated in front of your startup! #publicspeaking #ftw
 
-For example: "**Meaningful Code by Yann Lemin**" was a **conference** animated on **23rd august 2018**.
+For example: "**Meaningful Code by Yann Lemin**" was a **conference** animated on **23rd august 2018**. You, as learners, may have attend to this conference so it will be register as a Conference Participation.
 
-About "**workshop participation**" and "**workshop animation**":
-
+About the different type:
+- Code Initiation
+- CoderDojo => A code initiation but under the brand Coder Dojo
+- Information Session: You are a BeCode ambassador, spreading the word
+- Hackathon
+- Job Interview
+- if you attend a conference => **conference particiapation**
+- if you ANIMATE the conference => **conference animation**
 - if you attend a workshop => **workshop participation**.
 - if YOU ANIMATE the workshop => **workshop animation**.
 
