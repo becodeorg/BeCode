@@ -64,4 +64,4 @@ You feel inside you the motivation to become a project manager, a communication 
 ## THANK YOU !!
 
 Thank you BrowserStack for the openSource plan !
-![](./img/Browserstack-logo.svg)
+[![](./img/Browserstack-logo.svg)](https://browserstack.com)
