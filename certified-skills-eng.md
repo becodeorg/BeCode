@@ -16,21 +16,4 @@ So, we are developing a system of competence badges. In the long run, this will 
 :arrow_right: To come
 
 ## Insert badges on LinkedIn
-
-Did you receive badges attesting to your new skills? You want to put them on LinkedIn except that you only manage to share them as a post and it's not nice. You would like them to appear on your profile like your other certifications acquired on OpenClassRooms & co.... Follow my lead!
-
-
-Here's two way to do it:
-- [First tuto written by Tan Phan, team Cycorp (2nd promotion)](https://github.com/TanPhanCy/tutobadge)
-- [Second tuto from badgr.io documentation](https://support.badgr.io/pages/viewpage.action?pageId=4554758)
-
-Examples:
-
-![exemples de badges sur LinkedIn](img/badgesonlinkedin.png)
-
-## Embed badges on personal websites
-
-- Go on the URL of the badge
-- Click on [Share]
-- Tab [Embed]
-- Insert code
+Follow the tuto => https://medium.com/becode/sharing-open-badges-on-linkedin-2cddb05e0aa7
