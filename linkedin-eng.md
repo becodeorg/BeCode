@@ -11,41 +11,41 @@ LinkedIn is a network with a mainly professional vocation. The most powerful con
 ### Office Staff
 - [Karen](https://www.linkedin.com/in/karenboers/)
 - [Sarah](https://www.linkedin.com/in/sarah-unger-6a33583/)
+- [Laureline](https://be.linkedin.com/in/laureline-depermentier-4874a1100)
+- [Lizhen](https://www.linkedin.com/in/lizhenxu/)
+- [Kanchan](https://www.linkedin.com/in/kanchan-rocha/)
 - [Miriam Azzouz](https://www.linkedin.com/in/miriam-azzouz-ba1607116/)
+- [Houria](https://www.linkedin.com/in/houria-toulni/)
 
 ### Mediation & Employment
 - [Eric](https://www.linkedin.com/in/eric-m-salla/)
 - [Ayoub](https://www.linkedin.com/in/ayoub-mohyi/)
-
+- [Sameer](https://www.linkedin.com/in/sameersrivastva/)
+- [Charlène](https://www.linkedin.com/in/charlene-libert-71234a83/)
+- [Jorik](https://www.linkedin.com/in/jorik-van-den-bosch-31727793/)
+- [Sharon](https://www.linkedin.com/in/sharon-de-wit-06511718a/)
 
 ### Communication Team
 - [Tom](https://www.linkedin.com/in/tomcrohin/)
-- [Ayaan](https://www.linkedin.com/in/ayaan-jama/)
-- [David](https://www.linkedin.com/in/david-c-a95547b8/)
 - [Abel](https://www.linkedin.com/in/magolu-abel/)
 
 ## Coaches
 - [Alexandre](https://www.linkedin.com/in/pixeline/)
 - [Emily](https://www.linkedin.com/in/emilymrghl/)
 - [Ludovic](https://www.linkedin.com/in/ludovic-patho-dev/)
-- [Bertrand](https://www.linkedin.com/in/bertrand-marlair/)
-- [Anthony](https://www.linkedin.com/in/anthony-lim%C3%A8re/)
-- [Valerian](https://www.linkedin.com/in/valerian-thomas/)
-- [Kevin](https://www.linkedin.com/in/kevin-flabat-420a74ba/)
-- [Lesley](https://www.linkedin.com/in/lesleyforn/)
 - [Leny](https://www.linkedin.com/in/padelnatte/)
-- [Marie](https://www.linkedin.com/in/marie-thielens/)
 - [Arnaud](https://www.linkedin.com/in/arnaud-duchemin-a28068151/)
 - [Thijs](https://www.linkedin.com/in/thijs-lambert/)
-- [Nicolas V.](https://www.linkedin.com/in/nicolasvanhoren/)
-- [Nicolas J.](https://www.linkedin.com/in/nicolas-jamar-26123814b/)
+- [Nicolas](https://www.linkedin.com/in/nicolas-jamar-26123814b/)
 - [David](https://www.linkedin.com/in/david-thewissen/)
-- [Jan](https://www.linkedin.com/in/jan-van-den-enden-410b7820/)
-- [Selene](https://www.linkedin.com/in/selene-nijst-112353173/)
-- [Raf](https://www.linkedin.com/in/codebull/)
-- [Filip](https://www.linkedin.com/in/filip-smets-870bb994/)
-- [Aravind](https://www.linkedin.com/in/aravind-chandrashekar-47186316b/)
-
+- [Koen](https://www.linkedin.com/in/koen-eelen-26764055/)
+- [Mike](https://www.linkedin.com/in/mickael-van-craenenbroeck-449608152/)
+- [Marvin](https://www.linkedin.com/in/marvin-louis-667693150/)
+- [Nick](https://www.linkedin.com/in/nick-banken)
+- [Sicco](https://www.linkedin.com/in/sicco-smit/)
+- [Pierre](https://www.linkedin.com/in/pierrenoël)
+- [Chrysanthi](https://www.linkedin.com/in/chrysanthi-katrini/)
+- [Xavier](https://www.linkedin.com/in/xavier-ronveaux-a472b5178/)
 
 ## Sources
 
