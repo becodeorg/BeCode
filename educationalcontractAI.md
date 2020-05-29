@@ -141,44 +141,38 @@ Discord is BeCode's daily communication platform. You are asked to put in displa
 - Being able to self-train to a new technology
 - To be able to animate educational sequences
 
-**Skills**
+**AI Skills**
 
 - Develop while respecting progressive improvement
 - Program in Python
 - Write in markdown
-- Automate your workflow 
-- Program in SASS
-- Use Javascript libraries (jQuery, d3.js ..)
-- Use CSS framework (Bootstrap, Zurb,...)
-- Optimize your pages for loading (the Lighthouse Test)
-- Realize progressive web apps
-- Create interactive graphics
-- The new approaches: node.js, react.js & angular
-
-**Backend skills**
-
-- Programming in a Middleware language (PHP, RoR, nodejs or ...)
-- To be able to determine which technology for which use
-- Can create a REST API (standard: openAPI)
-- Set up a CMS (wordpress) - make a WordPress theme
-- Use a staging/production environment
+- Use Python libraries (NumPy, Pandas ..)
+- Understand and manipulate Data
+- Clean Data
+- Plot Data
+- Identify the best AI model to use
+- Use and build Machine Learning models
+- Use and build Deep Learning models
+- Evaluate an AI model
+- Create a REST API
+- Create a pipeline
+- Set-up an environment 
 - Databases: mySQL and MongoDB (the basics)
-- Choose an accommodation according to the type of projects
-- Be aware of security issues. SQL injection, honeypot, counter a brute force attack ...
+- Create and distribute container solutions
 
 ### Knowledge
 
 Manipulate in a relevant way the following key-concepts:
-- SEO (white hat / black hat + organic referencing)
-- Conversion rate / conversion tunnels
-- Call-to-action
-- Progressive improvement
-- Responsive design
+
 - Data Visualization
-- Frontend, backend, CMS
+- Data Exploration
+- Data Cleaning
+- Linear Regression
+- Classification
+- Neural Networks
+- NLP
+- Reinforcement Learning
 - Database
-- Framework (MVC, CSS,...)
 - API
 - Git vocabulary (pull request, merge, fork, branch,...)
-- CSS selector (ID and Class, Ancestor / parent / child)
-- Static vs website dynamic site
+- Container
