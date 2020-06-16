@@ -18,9 +18,10 @@
 | English                                                                  |                                                Français                                                | Nederlands |
 | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------: | ---------: |
 | [For delays and **absences**](mybecode-absence-eng.md) 🆕 |       [Comment utiliser my.becode.org pour les **absences** et retards](mybecode-absence-fr.md) 🆕        | to come up |
+| [How to link your **Discord** account to your **my.becode** account](mybecode-discord-eng.md) 🆕 | [Comment lier votre profil discord à votre profil my.becode](mybecode-discord-eng.md) 🆕        | to come up |
+| To [notify I participate or animate an **event**](mybecode-event-eng.md) 🆕 | Pour [mentionner dans mon parcours que j'ai participé ou animé un **événement**](mybecode-event-fr.md) 🆕 | to come up |
 | How to claim your skill **badges** // come up           | Comment demander vos **badges** de compétences // come up                  | to come up |
 | To have a professionnal profile on **Talent** // come up | Avoir mon profil professionnel sur **Talent** // come up | to come up |
-| To [notify I participate or animate an **event**](mybecode-event-eng.md) 🆕 | Pour [mentionner dans mon parcours que j'ai participé ou animé un **événement**](mybecode-event-fr.md) 🆕 | to come up |
 
 **Talent** is the professionnal plateform made by BeCode that connect Juniors and employers (or clients).
 _Talent is currently in development. Be patient, it will be awesome!_
