@@ -4,63 +4,48 @@
 How to use my.becode.org for absences/delays/early departures/events?
 
 - Process
-    - [Absence not planned with proof](#absence-not-planned-with-proof)
-    - [Delay planned with proof](#delay-planned-with-proof)
-    - [Delay not planned but justifiable](#Delay-not-planned-but-justifiable)
-    - [Absence planned](#absence-planned)
-    - [Absence for a BeCode event](#absence-for-a-BeCode-event)
+
 - Documents BeCode to communicate : which ones and in which case
     - [Attestation Participation Evenement](#attestation-participation-evenement)
     - [Demande absence exceptionnelle](#demande-dabsence-exceptionnelle)
     - [Déclaration sur l'honneur](#déclaration-sur-lhonneur)
-- Into my.becode
-    - [Early departure or late arrival](#early-departure-or-late-arrival)
-    - [Long-term absence](#long-term-absence)
-    - [Early departure and late arrival for a BeCode event](#early-departure-and-late-arrival-for-a-becode-event)
-    - [Long-term absence from a BeCode event](#long-term-absence-from-a-becode-event)
+
 
 ## Process
-### Absence not planned with proof
-Example : sickness
-- go to « Absence planner »
-- check « Long-term absence »
-- explain the reason of your absence
 
-![](img/mybecode-longtermabsence.gif)
+### Press the presence button
+![pointer](img/mybecode-checkin.gif)
 
-ℹ️ It is possible to **upload your proof later** but do it as soon as possible or it will be considered injustified.
-Go to « Absence notifier », find the absence to justify, send the document that was missing.
+You will be asked to check in every day:
+- BEFORE or at 09:00 SHARP (otherwise you will be considered late)
+- AFTER or at 12:30 SHARP (not before, otherwise it is considered an early departure)
+- BEFORE or at 13:30 SHARP (not after, otherwise it is considered late)
+- AFTER or at 17:00 SHARP (not before, otherwise it is considered an early departure)
 
-**Any absence must be notified via the form or it will be considered as an unjustified absence.**
+This is YOUR responsibility, not your coach's.
 
-### Delay planned with proof
-Example : administrative appointment
-- go to « Absence planner »
-- check « Early departure and late arrival »
-- explain the reason of your early departure or your late arrival
+### Communicating an absence, a delay, an early departure:
 
-ℹ️ A delay or early departure without proof is equivalent to half a day of unjustified absence. It is possible to upload a photo (or PDF) of your proof afterwards.
+You can register an absence, a delay or an early departure.    
+Example: Are you sick? Send an e-mail to your coaches and enter your absence in my.becode.    
+You have a dentist appointment in two months? Send an email to your coaches and already register your absence in my.becode.
 
-### Delay not planned but justifiable
-Example : retard SNCB
-- got to « Absence planner »
-- check « Early departure and late arrival »
-- explain the reason
-- send the proof of train delay that you will find on the SNCB website.
 
-![](img/mybecode-earlydepartrure.gif)
+### Add a receipt after the absence
 
-![](img/mybecode-sendajustifilater.gif)
+![Justify an absence after](img/mybecode-absencejustiflater.gif)
 
-### Absence planned
-- check « Long-term absence » and explain the reason why you're not there
+Let us take the example of the dentist. You have warned but you only have your proof of payment once you have been to the dentist. Makes sense. Go back to the interface, search for your absence and upload the receipt.
 
-ℹ️ It is strongly recommended to upload your proof as soon as possible to avoid any problem of unjustified absence.
+### The different statuses of your absences
 
-### Absence for a BeCode event
-- check « Early departure and late arrival for a BeCode event » or « Long-term absence from a BeCode event »
-- tell us to what event you're going
-- send us the picture/scan of the "attestation participation événement" document filled with the coach's signature.
+Pending: Your EMO hasn't had time to consider whether your absence is justifiable or not.
+Accepted: There is no problem.
+Rejected: Absence is not considered justifiable.
+
+No need to try to bribe your coaches, they are not responsible for approving or not approving an absence.
+
+For the consequences, consult the [Pedagogical Contract](educationalcontract.md).
 
 ## Documents
 These are the official documents that you must join in my.becode.org in the case of participation of events, internship appointment, strike,... You must have them signed by your coaches BEFORE sending them in my.becode.org otherwise, they will not be considered valid.
@@ -73,16 +58,3 @@ To fill in case of internship interview, pedagogical day (the day during which t
 ### Déclaration sur l'honneur
 📜 [[doc](https://drive.google.com/open?id=0B1mdnkbeKh9FbFVVTTlxRGVlWm5fNDN3U2Y3RXBzYmE1cmhR)]
 To fill in case of public transport strike.
-
-## In my.becode
-### Early departure or late arrival
-Use when you arrive after 9am or when you leave earlier than 17h.
-### Long-term absence
-Use when you will not be in class for one or more days
-### Early departure and late arrival for a BeCode event
-Use when you arrive after 9am or when you leave earlier than 17h because of a BeCode event => External workshop
-### Long-term absence from a BeCode event
-Use when you will not be in class for one or more days because of a BeCode event => Hackathon, Coach' Pedagogical Day
-
-
-![screenshot absence mybecode](img/mybecode.gif)

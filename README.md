@@ -11,17 +11,16 @@
 | English                                                    |                    Français                    |                                       Nederlands |
 | :--------------------------------------------------------- | :--------------------------------------------: | -----------------------------------------------: |
 | [Educational Contract](educationalcontract.md)             | [Contrat Pédagogique](./contratpedagogique.md) | [Pedagogisch Contract](./pedagogischcontract.md) |
-| [Utilisation of Ryver](ryver-eng.md) (Translate to finish) |      [Utilisation de Ryver](ryver-fr.md)       |                                       to come up |
+| [Educational Contract for Data Science](educationalcontractAI.md)             | to come up | to come up |
 
 ### How to use my.becode.org
 
 | English                                                                  |                                                Français                                                | Nederlands |
 | :----------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------: | ---------: |
-| [For delays and **absences**](mybecode-absence-eng.md)                   |       [Comment utiliser my.becode.org pour les **absences** et retards](mybecode-absence-fr.md)        | to come up |
-| [How to claim your skill **badges**](mybecode-badges-eng.md)             |                Comment [demander vos **badges** de compétences](mybecode-badges-fr.md)                 | to come up |
-| To have a professionnal profile on **Talent**                            |                             Avoir mon profil professionnel sur **Talent**                              | to come up |
-| To [notify I participate or animate an **event**](mybecode-event-eng.md) | Pour [mentionner dans mon parcours que j'ai participé ou animé un **événement**](mybecode-event-fr.md) | to come up |
-| To searching for a **job/internship**                                    |                           [Rechercher un **job/stage**](mybecode-jobs-fr.md)                           | to come up |
+| [For delays and **absences**](mybecode-absence-eng.md) 🆕 |       [Comment utiliser my.becode.org pour les **absences** et retards](mybecode-absence-fr.md) 🆕        | to come up |
+| How to claim your skill **badges** // come up           | Comment demander vos **badges** de compétences // come up                  | to come up |
+| To have a professionnal profile on **Talent** // come up | Avoir mon profil professionnel sur **Talent** // come up | to come up |
+| To [notify I participate or animate an **event**](mybecode-event-eng.md) 🆕 | Pour [mentionner dans mon parcours que j'ai participé ou animé un **événement**](mybecode-event-fr.md) 🆕 | to come up |
 
 **Talent** is the professionnal plateform made by BeCode that connect Juniors and employers (or clients).
 _Talent is currently in development. Be patient, it will be awesome!_
@@ -58,10 +57,4 @@ You feel inside you the motivation to become a project manager, a communication 
 
 ### BONUS
 
-- [Routine de la Brain Gym](BrainGymRoutine.md)
-  Et pour toutes les ressources techniques, c'est sur le [Wiki](https://github.com/becodeorg/BeCode/wiki).
-
-## THANK YOU !!
-
-Thank you BrowserStack for the openSource plan !
-[![](./img/Browserstack-logo.svg)](https://browserstack.com)
+Et pour toutes les ressources techniques, c'est sur le [Wiki](https://github.com/becodeorg/BeCode/wiki).

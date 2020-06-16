@@ -4,60 +4,50 @@
 Comment utiliser la plateforme my.becode.org pour les absences/retards/départs anticipés/événements ?
 
 - Procédures
-    - [Absence non prévue avec justificatif](#absence-non-prévue-avec-justificatif)
-    - [Retard prévu avec justificatif](#retard-prévu-avec-justificatif)
-    - [Retard non prévu mais justifiable](#retard-non-prévu-mais-justifiable)
-    - [Absence prévue à l'avance](#absence-prévue-à-lavance)
-    - [Absence pour un événement BeCode](#absence-pour-un-événement-becode)
+    - Pointer !
+
 - Documents BeCode à transmettre : lesquels et dans quel cas
     - [Attestation Participation Evenement](#attestation-de-participation-à-un-évènement)
     - [Demande absence exceptionnelle](#demande-dabsence-exceptionnelle)
     - [Déclaration sur l'honneur](#déclaration-sur-lhonneur)
-- Dans my.becode
-    - [Early departure or late arrival](#early-departure-or-late-arrival)
-    - [Long-term absence](#long-term-absence)
-    - [Early departure and late arrival for a BeCode event](#early-departure-and-late-arrival-for-a-becode-event)
-    - [Long-term absence from a BeCode event](#long-term-absence-from-a-becode-event)
 
-## Procédure
-### Absence non prévue avec justificatif
-Exemple : maladie
-- va dans le menu
-- va dans « Absence planner »
-- coche simplement « Long-term absence »
-- note la ou les raisons de ton absence
+## Procédures
 
-ℹ️ Il est possible d’**uploader ton justificatif plus tard** mais tâche de le faire le plus tôt possible sous peine que ton absence ne soit pas acceptée comme justifiée.    
-Va dans « Absence notifier », retrouve l'absence à justifier, envoie le document qu'il manquait.
+## Pointer :
+![pointer](img/mybecode-checkin.gif)
 
-**Toute absence du local doit être prévenue via le formulaire sous peine d’absence injustifiée.**
+Il vous sera demander de pointer tous les jours :
+- AVANT ou à 09:00 PILE (sinon vous serez considéré comme en retard)
+- APRES ou à 12:30 PILE (pas avant, sinon c'est considéré comme un départ anticipé)
+- AVANT ou à 13:30 PILE (pas après, sinon, c'est considéré comme un retard)
+- APRES ou à 17:00 PILE (pas avant, sinon, c'est considéré comme un départ anticipé)
 
-### Retard ou départ prévu avec justificatif
-Exemple : rendez-vous administratif
-- va dans le menu
-- va dans « Absence planner »
-- coche « Early departure and late arrival »
-- note la ou les raisons de ton retard ou de ton départ anticipé.
+C'est VOTRE responsabilité, pas celles de votre coach.
 
-ℹ️ Un retard ou un départ anticipé sans justificatif équivaut à une demi-journée d’absence injustifiée. Il est possible d’uploader une photo (ou un PDF) de ton justificatif par après.
+## Communiquer une absence, un retard, un départ anticipé :
+![Enregistrer une absence](img/mybecode-recordabsence.gif)
 
-### Retard non prévu mais justifiable
-Exemple : retard SNCB
-- va dans le menu
-- va dans « Absence planner »
-- coche « Early departure and late arrival »
-- note la ou les raisons de ton retard
-- envoie le justificatif de retard de train que tu trouveras sur le site de la SNCB.
+Vous pouvez enregistrer une absence, un retard ou un départ anticipé.    
+Exemple : Vous êtes malade ? Envoyez un mail à vos coachs et inscrivez votre absence dans my.becode.    
+Vous avez rendez-vous chez le dentiste dans deux mois ? Envoyez un mail à vos coachs et inscrivez déjà votre absence dans my.becode.
 
-### Absence prévue à l'avance
-- coche simplement « Long-term absence » et expliquez la raison de votre absence.
+## Ajouter un justificatif après l'absence
 
-ℹ️ Il est fortement conseillé d’uploader votre justificatif le plus tôt possible afin d’éviter tout problème d’absence injustifiée par la suite.
+![Justifier une absence après](img/mybecode-absencejustiflater.gif)
 
-### Absence ou retard/départ pour un événement BeCode
-- coche « Early departure and late arrival for a BeCode event » en cas de retard/départ ou « Long-term absence from a BeCode event » en cas d'absence
-- mentionne de quel événement il s'agit
-- joins la photo/scan du document "attestation participation événement" avec la signature de ton coach.
+Reprenons l'exemple du dentiste. Vous avez prévenu mais vous n'avez votre justificatif qu'une fois être allé chez le dentiste. Logique. Retournez dans l'interface, cherchez votre absence et uploadez le justificatif.
+
+## Les différents status de vos absences
+
+![Les différents status de vos absences](img/mybecode-statusabsence.gif)
+
+Pending : Votre EMO n'a pas eu le temps de regarder si votre absence est justifiable ou pas.
+Accepted : Il n'y a pas de souci.
+Rejected : L'absence n'est pas considéré comme justifiable.
+
+Inutile de tenter de corrompre vos coachs, ils ne sont pas responsables de l'approbation ou non d'une absence.
+
+Pour les conséquences, reconsultez le [Contrat Pédagogique](contratpedagogique.md).
 
 ## Documents
 Ce sont les documents officiels que vous devez introduire dans my.becode.org dans le cas de participation à des événements, rendez-vous de stage, grève,... Vous devez les faire signer par vos coachs AVANT de les envoyer dans my.becode.org sinon, ils ne seront pas considérés comme valides.
@@ -70,16 +60,3 @@ A remplir en cas d'entretien de stage, de journée pédagogique (la journée dur
 ### Déclaration sur l'honneur
 📜 [[doc](https://drive.google.com/open?id=0B1mdnkbeKh9FbFVVTTlxRGVlWm5fNDN3U2Y3RXBzYmE1cmhR)]
 A remplir en cas de grève des transports publics.
-
-## Dans my.becode
-### Early departure or late arrival
-A utiliser quand tu arrives après 9h ou quand tu pars plus tôt que 17h.
-### Long-term absence
-A utiliser quand tu es absent pendant un ou plusieurs jours
-### Early departure and late arrival for a BeCode event
-A utiliser quand tu arrives après 9h ou quand tu pars plus tôt que 17h mais dans le cadre d'un événement BeCode => Workshop externe
-### Long-term absence from a BeCode event
-A utiliser quand tu es absent pendant un ou plusieurs jours mais dans le cadre d'un événement BeCode => Hackathon, Coach' Pedagogical Day
-
-
-![screenshot absence mybecode](img/mybecode.gif)

@@ -1,6 +1,8 @@
 # my.becode.org : les évènements
 Comment et pourquoi encoder ma participation aux événements dans my.becode.org
 
+![Comment ajouter un événement](img/mybecode-events.gif)
+
 Hi folks!
 Vous avez accès à une nouvelle section appelée [**events section**](https://my.becode.org/eventusers) sur [my.becode.org](https://my.becode.org/eventusers).    
 Vous pouvez désormais encoder les événements auxquels vous avez participés.
@@ -25,7 +27,5 @@ About the different type:
 - si tu ANIMES la conférence => **conference animation**
 - si tu participes à un workshop => **workshop participation**.
 - si tu ANIMES le workshop => **workshop animation**.
-
-![Comment ajouter un événement](img/mybecode-add-an-event.gif)
 
 Happy eventing !

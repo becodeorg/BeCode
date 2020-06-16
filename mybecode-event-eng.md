@@ -1,6 +1,8 @@
 # my.becode.org: events
 How and why encode your participation to event inside my.becode.org
 
+![how to ad an event on mybecode](img/mybecode-events.gif)
+
 Hi folks!
 We are proud to announce that you can now have access to the [**events section**](https://my.becode.org/eventusers) on [my.becode.org](https://my.becode.org/eventusers).    
 
@@ -22,7 +24,5 @@ About the different type:
 - if you ANIMATE the conference => **conference animation**
 - if you attend a workshop => **workshop participation**.
 - if YOU ANIMATE the workshop => **workshop animation**.
-
-![how to ad an event on mybecode](img/mybecode-add-an-event.gif)
 
 Happy eventing !
