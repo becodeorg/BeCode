@@ -1,10 +1,13 @@
 # my.becode.org : absences
 
-[[English version](procedure-mybecode-eng.md)]    
+[[English version](mybecode-absence-eng.md)]    
 Comment utiliser la plateforme my.becode.org pour les absences/retards/départs anticipés/événements ?
 
 - Procédures
-    - Pointer !
+    - [Pointer !](#pointer-)
+    - [Communiquer une absence, un retard, un départ anticipé](#communiquer-une-absence-un-retard-un-d%C3%A9part-anticip%C3%A9-))
+    - [Ajouter un justificatif après l'absence](#ajouter-un-justificatif-apr%C3%A8s-labsence)
+    - [Les différents status de vos absences](#les-diff%C3%A9rents-status-de-vos-absences)
 
 - Documents BeCode à transmettre : lesquels et dans quel cas
     - [Attestation Participation Evenement](#attestation-de-participation-à-un-évènement)
@@ -30,6 +33,8 @@ C'est VOTRE responsabilité, pas celles de votre coach.
 Vous pouvez enregistrer une absence, un retard ou un départ anticipé.    
 Exemple : Vous êtes malade ? Envoyez un mail à vos coachs et inscrivez votre absence dans my.becode.    
 Vous avez rendez-vous chez le dentiste dans deux mois ? Envoyez un mail à vos coachs et inscrivez déjà votre absence dans my.becode.
+
+**JUSTIFIER SYSTEMATIQUEMENT TOUT RETARD, DEPART, ABSENCE AVEC UN JUSTIFICATIF** : Vous êtes en stage donc déjà à l'emploi. Vous devez justifier de vos absences avec des documents officiels (certificat du médecin, attestation de la commune ou syndicat, attestation grève/retard des transports des communs)
 
 ## Ajouter un justificatif après l'absence
 
