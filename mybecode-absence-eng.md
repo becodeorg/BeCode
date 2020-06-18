@@ -4,6 +4,10 @@
 How to use my.becode.org for absences/delays/early departures/events?
 
 - Process
+    - [Press the presence button](#press-the-presence-button)
+    - [Communicating an absence, a delay, an early departure](#communicating-an-absence-a-delay-an-early-departure)
+    - [Add a justification after the absence](#add-a-justification-after-the-absence)
+    - [The different statuses of your absences](#the-different-statuses-of-your-absences)
 
 - Documents BeCode to communicate : which ones and in which case
     - [Attestation Participation Evenement](#attestation-participation-evenement)
@@ -31,17 +35,19 @@ Example: Are you sick? Send an e-mail to your coaches and enter your absence in 
 You have a dentist appointment in two months? Send an email to your coaches and already register your absence in my.becode.
 
 
-### Add a receipt after the absence
+### Add a justification after the absence
 
 ![Justify an absence after](img/mybecode-absencejustiflater.gif)
 
-Let us take the example of the dentist. You have warned but you only have your proof of payment once you have been to the dentist. Makes sense. Go back to the interface, search for your absence and upload the receipt.
+Let us take the example of the dentist. You have warned but you only received the presence proof once you have been to the dentist. Makes sense. Go back to the interface, search for your absence and upload the receipt.
 
 ### The different statuses of your absences
 
 Pending: Your EMO hasn't had time to consider whether your absence is justifiable or not.
 Accepted: There is no problem.
 Rejected: Absence is not considered justifiable.
+
+**TO BE JUSTIFIED, IT IS MANDATORY THAT EVERY ABSENCE/DELAY/DEPARTURE MUST BE ACCOMPAGNIED BY A CERTIFICATE/JUSTIFICATION UPLOADED**
 
 No need to try to bribe your coaches, they are not responsible for approving or not approving an absence.
 
