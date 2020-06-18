@@ -1,6 +1,6 @@
 # my.becode.org: absences
 
-[[Version francophone](procedure-mybecode.md)]
+[[Version francophone](mybecode-absence-fr.md)]
 How to use my.becode.org for absences/delays/early departures/events?
 
 - Process
