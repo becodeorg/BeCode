@@ -47,7 +47,7 @@ Pending: Your EMO hasn't had time to consider whether your absence is justifiabl
 Accepted: There is no problem.
 Rejected: Absence is not considered justifiable.
 
-**TO BE JUSTIFIED, IT IS MANDATORY THAT EVERY ABSENCE/DELAY/DEPARTURE MUST BE ACCOMPAGNIED BY A CERTIFICATE/JUSTIFICATION UPLOADED**
+**JUSTIFY SYSTEMATICALLY FOR ANY DELAY, DEPARTURE, ABSENCE WITH A JUSTIFICATIVE**: You are on an internship so already employed. You must justify your absences with official documents (doctor's certificate, certificate from the municipality or union, certificate of strike/delay in public transport).
 
 No need to try to bribe your coaches, they are not responsible for approving or not approving an absence.
 
