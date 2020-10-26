@@ -11,26 +11,34 @@ LinkedIn is a network with a mainly professional vocation. The most powerful con
 ### Office Staff
 - [Karen](https://www.linkedin.com/in/karenboers/)
 - [Sarah](https://www.linkedin.com/in/sarah-unger-6a33583/)
+- [Alexandre](https://www.linkedin.com/in/pixeline/)
 - [Laureline](https://be.linkedin.com/in/laureline-depermentier-4874a1100)
-- [Lizhen](https://www.linkedin.com/in/lizhenxu/)
 - [Kanchan](https://www.linkedin.com/in/kanchan-rocha/)
+- [Liesbeth](https://www.linkedin.com/in/debruynliesbeth/)
+- [Jean-Benoît](https://www.linkedin.com/in/jean-beno%C3%AEt-hoet-24700617/)
 - [Miriam Azzouz](https://www.linkedin.com/in/miriam-azzouz-ba1607116/)
 - [Houria](https://www.linkedin.com/in/houria-toulni/)
 
+
 ### Mediation & Employment
+#### Brussels
 - [Eric](https://www.linkedin.com/in/eric-m-salla/)
+#### Flanders
 - [Ayoub](https://www.linkedin.com/in/ayoub-mohyi/)
-- [Sameer](https://www.linkedin.com/in/sameersrivastva/)
-- [Charlène](https://www.linkedin.com/in/charlene-libert-71234a83/)
 - [Jorik](https://www.linkedin.com/in/jorik-van-den-bosch-31727793/)
 - [Sharon](https://www.linkedin.com/in/sharon-de-wit-06511718a/)
+- [Edith](https://www.linkedin.com/in/edithlagrou/)
+#### Wallonia
+- [Charlène](https://www.linkedin.com/in/charlene-libert-71234a83/)
+- [Ruben](https://www.linkedin.com/in/ruben-pereira-b20b0154/)
+- [Sarah](https://www.linkedin.com/in/sarah-luypaert-a30669144/)
 
 ### Communication Team
 - [Tom](https://www.linkedin.com/in/tomcrohin/)
 - [Abel](https://www.linkedin.com/in/magolu-abel/)
+- [Margot](https://www.linkedin.com/in/margot-vanlaet)
 
 ## Coaches
-- [Alexandre](https://www.linkedin.com/in/pixeline/)
 - [Emily](https://www.linkedin.com/in/emilymrghl/)
 - [Ludovic](https://www.linkedin.com/in/ludovic-patho-dev/)
 - [Leny](https://www.linkedin.com/in/padelnatte/)
@@ -46,6 +54,14 @@ LinkedIn is a network with a mainly professional vocation. The most powerful con
 - [Pierre](https://www.linkedin.com/in/pierrenoël)
 - [Chrysanthi](https://www.linkedin.com/in/chrysanthi-katrini/)
 - [Xavier](https://www.linkedin.com/in/xavier-ronveaux-a472b5178/)
+- [Tim](https://be.linkedin.com/in/tim-broos-827525116)
+- [Pierre-Yves](https://www.linkedin.com/in/pydehon/)
+- [Maxim](https://www.linkedin.com/in/maxim-berge-94b486179/)
+- [Bert](https://www.linkedin.com/in/bert-heyman/)
+- [Tom](https://www.linkedin.com/in/tom-crasset-89a048176/)
+- [Diogo](https://be.linkedin.com/in/diogo-heinen-286996161)
+- [Ibe](https://www.linkedin.com/in/ibe-denaux/)
+- [Kelian](https://www.linkedin.com/in/kelian-c-5b0503192/)
 
 ## Sources
 
