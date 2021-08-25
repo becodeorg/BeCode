@@ -43,7 +43,7 @@ So :
 I respect training schedules.
 
 - Training hours: Monday to Friday, from 9:00 to 17:00
-- Morning break: 11h to 11h15
+- Morning break: 11:00 to 11:15
 - Lunch break: from 12:30 to 13:30
 - Afternoon break: 15:00 to 15:15
 
