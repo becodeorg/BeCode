@@ -43,9 +43,9 @@ So :
 I respect training schedules.
 
 - Training hours: Monday to Friday, from 9:00 to 17:00
-- Morning break: 11h to 11h15
+- Morning break: 11:00 to 11:15
 - Lunch break: from 12:30 to 13:30
-- Afternoon break: 15:30 to 15:45
+- Afternoon break: 15:00 to 15:15
 
 One of the objectives of the training is to professionalize the learners. In other words, learners will have to behave as if they are integrating a business. So :
 
