@@ -99,9 +99,9 @@ Les ordinateurs sont strictement personnels. Afin de se conformer à la pédagog
 
 Toujours concernant les ordinateurs, ils vous sont prêtés gratuitement et sont sous votre responsabilité. Il est attendu de la part des apprenant·e·s que les ordinateurs soient utilisés exclusivement pour travailler.
 
-### Règles de base concernant l'utilisation de Ryver
+### Règles de base concernant l'utilisation de Discord
 
-Ryver est la plateforme de communication quotidienne de BeCode. Il vous est demandé de mettre en display name votre prénom et votre nom. En photo de profil, il vous est demandé de mettre une photo de vous reconnaissable et récente. C'est une plateforme de communication professionnelle, aussi, il vous est demandé de vous comporter de manière professionnelle. Tout abus sera sanctionné.
+Discord est la plateforme de communication quotidienne de BeCode. Il vous est demandé de mettre en display name votre prénom et votre nom. En photo de profil, il vous est demandé de mettre une photo de vous reconnaissable et récente. C'est une plateforme de communication professionnelle, aussi, il vous est demandé de vous comporter de manière professionnelle. Tout abus sera sanctionné.
 
 
 ## Objectifs pédagogiques de “BeCode”
