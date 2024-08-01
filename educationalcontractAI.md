@@ -2,7 +2,7 @@
 
 The pedagogical contract concerns the training of AI Operator at BeCode.
 
-This document explains the rules to be respected by the learner at BeCode, as well as the skills to develop and the objectives to be achieved by the learner in terms of knowledge, soft skills and hard skills. It allows the learner and the trainers to have a good mutual understanding of the content and objectives of the training. Note that this is an intention and that the actual learning will progress at the learner's pace.
+This document explains the rules to be respected by the learner at BeCode, as well as the skills to develop and the objectives to be achieved by the learner in terms of knowledge, soft skills, and technical skills. It allows the learner and the trainers to have a good mutual understanding of the content and objectives of the training. Note that this is an intention and that the actual learning will progress at the learner's pace.
 
 ## Table of contents
 
@@ -23,7 +23,7 @@ This document explains the rules to be respected by the learner at BeCode, as we
 
 ## Internal regulations
 
-For life to be pleasant for BeCode, some rules must be respected by everyone. It's about the collective management of your classroom and the building, the schedules, the respect of the material and how to deal with the outside.
+For life to be pleasant for BeCode, some rules must be respected by everyone. It's about the collective management of your classroom and the building, the schedules, and the respect for the material.
 
 Beyond the legal regulation, other rules must be applied for a harmonious common life.
 
@@ -33,12 +33,13 @@ The classroom is managed by all of the individuals who occupy it. A person in ch
 
 So :
 
-- I wash my dishes day by day.
+- I wash my dishes day by day or ensure they are placed in the dishwasher.
 - I throw my trash in the proper bins.
-- I make sure to throw away my out-of-date products stored in the refrigerator.
+- I throw away my out-of-date products stored in the refrigerator.
 - I make sure to keep the toilets clean.
+- I make sure to keep common areas and desks clean.
 
-### Respect of schedules: what about delays and absences?
+### Respect for schedules: what about delays and absences?
 
 I respect training schedules.
 
@@ -47,12 +48,14 @@ I respect training schedules.
 - Lunch break: from 12:30 to 13:30
 - Afternoon break: 15:00 to 15:15
 
-One of the objectives of the training is to professionalize the learners. In other words, learners will have to behave as if they are integrating a business. So :
+One of the objectives of the training is to simulate a professional environment. In other words, learners will have to behave as if they are integrating a company. So :
 
-- Any planned absence must be announced via the interface [my.becode.org](https://my.becode.org/) **at least one day before**.
+- Any planned absence must be announced via the interface [Moodle](https://moodle.becode.org/)]([https://my.becode.org/](https://moodle.becode.org/)) **at least one day before** and communicated to your coach.
 - Any absence or delay (or early departure) must be:
-	1. announced via the interface [my.becode.org](https://my.becode.org/) ([manual of utilization](https://github.com/becodeorg/BeCode/blob/master/procedure-mybecode.md))
-	1. justify with **a medical certificate or administrative proof** sent via my.becode.org then the document will be hand-delivered to the coaches.
+	1. announced via the interface [Moodle](https://moodle.becode.org/)]([https://my.becode.org/](https://moodle.becode.org/)) and communicated to your coach.
+        2. justify with **a medical certificate or administrative proof** uploaded on the Moodle platform on the day of the absence and up to 48 hours after the absence.
+   
+If you have any issues uploading a justification to the platform contact your coach or campus administrator.
 
 #### Sanctions
 
@@ -75,13 +78,13 @@ Reminder: **Predate and / or falsely certify a disease are criminal offenses pun
 
 BeCode is located in a collective space where businesses reside. It is necessary to respect them:
 
-- I throw my cigarette butts in the jars or the located near the front door
+- I throw my cigarette butts in the jars or the spaces located near the front door
 - I do not throw anything but my butts into these pots.
 
 ### Sustainability - posterity
 
 
-In order for BeCode to fulfill its reporting commitments as a social and solidarity-based company, BeCoders undertake to respond to follow-up surveys at the start of training, three months, six months, twelve months. and twenty-four months after the end of the training.
+In order for BeCode to fulfill its reporting commitments as a social and solidarity-based company, BeCoders undertakes to respond to follow-up surveys at the start of training, three months, six months, and twelve months. and twenty-four months after the end of the training.
 
 Also, they undertake to show goodwill in their response to solicitations of testimony that they may be subject to. It's also important to be aware of everyone's role in BeCode's reputation. The behavior of each one must always be professional.
 
