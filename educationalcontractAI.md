@@ -50,9 +50,9 @@ I respect training schedules.
 
 One of the objectives of the training is to simulate a professional environment. In other words, learners will have to behave as if they are integrating a company. So :
 
-- Any planned absence must be announced via the interface [Moodle](https://moodle.becode.org/)]([https://my.becode.org/](https://moodle.becode.org/)) **at least one day before** and communicated to your coach.
+- Any planned absence must be announced via the interface [Moodle](https://moodle.becode.org/) at least one day before** and communicated to your coach.
 - Any absence or delay (or early departure) must be:
-	1. announced via the interface [Moodle](https://moodle.becode.org/)]([https://my.becode.org/](https://moodle.becode.org/)) and communicated to your coach.
+	1. announced via the interface [Moodle](https://moodle.becode.org/)] and communicated to your coach.
         2. justify with **a medical certificate or administrative proof** uploaded on the Moodle platform on the day of the absence and up to 48 hours after the absence.
    
 If you have any issues uploading a justification to the platform contact your coach or campus administrator.
